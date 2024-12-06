@@ -1,0 +1,6 @@
+libgbm1
+libasound2
+texlive-latex-base
+texlive-fonts-recommended
+texlive-fonts-extra
+poppler-utils
