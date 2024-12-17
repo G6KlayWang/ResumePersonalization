@@ -89,13 +89,20 @@ The results is shown below:
 ```
 from huggingface_hub import login
 login(token = 'Your token')
+
+# Load model directly
+from transformers import AutoTokenizer, AutoModelForCausalLM
+
+tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.1-8B")
+if tokenizer.pad_token is None:
+    tokenizer.pad_token = tokenizer.eos_token
+model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-3.1-8B")
 ```
 3. Get the login token for huggingface and the GPT API key
 4. Install the following package
 ```
 pip install datasets transformers, evaluate, re
 ```
-
 ## Directory Structure
 
 Key Notebooks:
