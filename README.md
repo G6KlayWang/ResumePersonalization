@@ -1,4 +1,4 @@
-# ResumePersonalization
+# Resume Personalization
 
 <div align="center">
 <h3>Authors</h3>
@@ -66,9 +66,12 @@ Here is a sample of our finetune data.
 ```
 Finally, we have 3675 data entries in sections
 
-We train the model with 4 epochs and a learning rate of 2e-4
+We trained the model with 2, 3 and 4 epochs respectively and a learning rate of 2e-4 and achieved a loss of 0.067300 at the end. The finetuning took around 1 hour on one A800 GPU.
 
-## Evaluation
+## Inference and Evaluation
+
+We found out the the 4 epochs finetuning version has the best performance in terms of extracting and improving the content for each section in the resume. 
+
 
 ## Future Work
 
