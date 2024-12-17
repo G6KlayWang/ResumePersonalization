@@ -72,13 +72,29 @@ We trained the model with 2, 3 and 4 epochs respectively and a learning rate of 
 
 We found out the the 4 epochs finetuning version has the best performance in terms of extracting and improving the content for each section in the resume. 
 
+We evaluation the model with the real world resume data seperated in different sections combined with the job descriptions in terms of user personalization, job alignment and model hallucination.
+
+The results is shown below: 
+
 
 ## Future Work
+1. Finetune the model with more data. We are only able to process 500+ resumes due to the budget limit
+2. Merge our finetuned model into resumeflow to generate a resume in pdf directly
+3. handle the challenge that the llama model includes prompt and input both in the generated output
 
 # Project
 
 ## Installation
-
+1. Requestion the access to the Llama model from Huggingface.
+```
+from huggingface_hub import login
+login(token = 'Your token')
+```
+3. Get the login token for huggingface and the GPT API key
+4. Install the following package
+```
+pip install datasets transformers, evaluate, re
+```
 
 ## Directory Structure
 
