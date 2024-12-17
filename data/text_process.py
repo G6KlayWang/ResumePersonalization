@@ -2,7 +2,7 @@ import openai
 import json
 
 # Set up your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "Your API key"
 
 def generate(input_text):
     """

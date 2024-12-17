@@ -12,8 +12,7 @@ Extract job details from job descriptions using OpenAI's GPT-4 model.
 '''
 
 # Set your OpenAI API key
-openai.api_key = "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"
-# backup key: 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
+openai.api_key = ""
 
 JOB_DETAILS_EXTRACTOR = """ 
 <task>

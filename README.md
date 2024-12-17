@@ -106,16 +106,30 @@ pip install datasets transformers, evaluate, re
 ## Directory Structure
 
 Key Notebooks:
+1. **Evaluation_realworld.ipynb**: Evaluate the GPT 4o, original Llama, finetuned Llama model using some real resume and job description data with the evaluation results
+2. **Evaluation.ipynb**: Evaluate the GPT 4o, original Llama, finetuned Llama model using evaluation data splited from the generated dataset in output folder with the evaluation results
+3. **Llama31_finetune.ipynb**: The process of finetuning the Llama 3.1 8B model including prompt, data prepration and a inference demo
+
 
 Project Structure:
 ```
-├── backtesting                          # Scripts for backtesting trained models
-├── data                                 # Various datasets used in the project
-│   ├── nexis_news_data_cleaned          # Cleaned news data from Nexis
-│   ├── price_history                    # Historical price data for stocks
-│   ├── sentiments                       # Sentiment data for stocks
-│   └── technical_indicators             # Technical indicators for stocks
-
+├── Backup_Notebook                      # Scripts for backtesting trained models
+├── Resumeflow_source                    # source code for the resumeflow tool to generate resume in pdf
+├── data                                 # Data collection, preprocessing and trainig and evaluation data
+│   ├── first_600_resumes.txt            # raw resume data
+│   ├── data_set                         # raw and processed job description and resume data
+│   ├── jd_detail.py                     # Extract key information from the full text of job descritpion
+│   ├── jd_scrap.ipybn                   # Scrapping job descriptions
+│   |── pdf_extract.py                   # Extract all the content in a pdf in the format of text
+│   |── resume_section.py                # Split the full text of resume into different sections
+│   |── resume_text.ipynb                # process of data cleaning, preprocssing
+│   |── target_resume.py                 # generate resume as target data using GPT 4o and save all results into a json file
+│   |── text_process.py                  # split the resume into 6 sections without personal information
+│   |── text_to_json.py                  # save the categorized resume content into a json file
+│   |── updated_resumes_combined.csv     # resume data with simulated personal information
+├── output                               # a folder contains the output data of target_resume.py
+├── eval.py                              # Evaluation metrics impelementation
+├── section_prompt.py                    # the master and section prompts for training and inferencing
 ```
 <br>
 

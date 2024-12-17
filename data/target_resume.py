@@ -10,7 +10,7 @@ import pandas as pd
 from multiprocessing import Pool
 
 # ---------------- CONFIGURATION ----------------
-openai.api_key = "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"
+openai.api_key = "Your API key"
 MODEL_NAME = "gpt-4o"
 NUM_PROCESSES = 5
 CHECKPOINT_INTERVAL = 100  # Save results every 100 rows
