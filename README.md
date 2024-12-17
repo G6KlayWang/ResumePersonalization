@@ -139,14 +139,14 @@ Project Structure:
 
 ## Reference
 
-[1]: [ResumeFlow: An LLM-facilitated Pipeline for Personalized Resume Generation and Refinement](https://github.com/Ztrimus/ResumeFlow)
+1. [ResumeFlow: An LLM-facilitated Pipeline for Personalized Resume Generation and Refinement](https://github.com/Ztrimus/ResumeFlow)
 
-[2]: [JobSpy](https://github.com/Bunsly/JobSpy?tab=readme-ov-file#output)
+2. [JobSpy](https://github.com/Bunsly/JobSpy?tab=readme-ov-file#output)
 
-[3]: [resume_corpus](https://github.com/florex/resume_corpus)
+3. [resume_corpus](https://github.com/florex/resume_corpus)
 
-[4]: [Meta Llama 3.1 8B](https://huggingface.co/meta-llama/Llama-3.1-8B)
+4. [Meta Llama 3.1 8B](https://huggingface.co/meta-llama/Llama-3.1-8B)
 
-[5]: [OpenAI API](https://platform.openai.com/docs/overview)
+5. [OpenAI API](https://platform.openai.com/docs/overview)
 
-[6]: [Autodl](https://www.autodl.com/)
+6. [Autodl](https://www.autodl.com/)
