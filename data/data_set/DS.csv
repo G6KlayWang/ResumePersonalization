@@ -1,0 +1,1309 @@
+,id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+0,gd-1009567327821,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009567327821,,Senior Machine Learning Engineer,Work from Home,"Nashville, TN",2024-12-16,,direct_data,yearly,108546.0,161906.0,USD,False,,,organic,,"##### **Introduction**
+
+
+Do you have the career opportunities as a Senior Machine Learning Engineer you want with your current employer? We have an exciting opportunity for you to join HCA which is part of the nation's leading provider of healthcare services, HCA Healthcare.
+
+##### **Benefits**
+
+
+HCA offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:
+
+* Comprehensive medical coverage that covers many common services at no cost or for a low copay. Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation.
+* Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long\-term care coverage, moving assistance, pet insurance and more.
+* Free counseling services and resources for emotional, physical and financial wellbeing
+* 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)
+* Employee Stock Purchase Plan with 10% off HCA Healthcare stock
+* Family support through fertility and family building benefits with Progyny and adoption assistance.
+* Referral services for child, elder and pet care, home and auto repair, event planning and more
+* Consumer discounts through Abenity and Consumer Discounts
+* Retirement readiness, rollover assistance services and preferred banking partnerships
+* Education assistance (tuition, student loan, certification support, dependent scholarships)
+* Colleague recognition program
+* Time Away From Work Program (paid time off, paid family leave, long\- and short\-term disability coverage and leaves of absence)
+* Employee Health Assistance Fund that offers free employee\-only coverage to full\-time and part\-time colleagues based on income.
+
+
+Learn more about Employee Benefits
+
+***Note: Eligibility for benefits may vary by location.***  
+
+
+
+Our teams are a committed, caring group of colleagues. Do you want to work as a Senior Machine Learning (ML) Engineer where your passion for creating positive patient interactions are valued? If you are dedicated to caring for the well\-being of others, this could be your next opportunity. We want your knowledge and expertise!
+
+##### **Job Summary and Qualifications**
+
+
+As a Senior ML Engineer in our Data Science team, you will be instrumental in building, managing, and maintaining the tools and infrastructure that ensure the reliability and efficiency of our Machine Learning Operations (MLOps) platform. This role requires a balance of technical expertise in reliability engineering and operational skills to maintain and optimize AI systems and infrastructure.
+
+**Key Responsibilities:**
+
+* **Tool Development and Management:** Build, manage, and maintain tools for system reliability, including dashboards, logging systems, and pager systems.
+* Infrastructure Maintenance: Help maintain and enhance our CI/CD pipelines, logging infrastructure, and other operational systems crucial for MLOps.
+* **Monorepo Management:** Keep the monorepo up\-to\-date with the latest dependency and security updates, ensuring a secure and efficient development environment.
+* **Vendor Collaboration:** Assist in implementing and maintaining infrastructure and systems managed by external vendor teams.
+* **Incident Management:** Lead and participate in incident management processes, including troubleshooting, root cause analysis, and implementing corrective measures to prevent future occurrences.
+
+**Technical Skills and Experience:**
+
+* **AI/ML Knowledge:** Solid understanding of AI/ML principles and technologies.
+* **System Monitoring and Tools:** Experience with system monitoring tools and observability. Knowledge of GCP, Vertex AI, or other cloud platforms is highly beneficial.
+* **Programming and Scripting:** Proficiency in programming languages such as Python and scripting for automation.
+* **Problem\-Solving Skills:** Strong analytical and problem\-solving skills, with the ability to work under pressure.
+
+**Qualifications:**
+
+* Bachelor’s or Master’s degree in Computer Science, Engineering, or a related technical field.
+* 5\+ years of experience in the technology field
+* Proven experience in a reliability engineering role, preferably with a focus on AI/ML systems.
+* Experience in incident management and performance optimization.
+* Excellent communication and teamwork skills.
+
+
+
+
+**HCA Healthcare (Corporate)**, based in Nashville, Tennessee, supports a variety of corporate roles from business operations to administrative positions. Like our colleagues in any HCA Healthcare hospital, our corporate campus employees enjoy unparalleled **resources and opportunities** to reach their potential as healthcare leaders and innovators. From market rate compensation to continuing education and **career advancement opportunities**, every person has a solid foundation for success. Nashville is also home to our **Executive Development Program**, where exceptional employees are groomed to take on CNO\- and COO\-level roles in our hospitals. This selective program focuses on ethics, leadership and the financial and clinical knowledge required of professionals at this level of the industry.
+
+
+HCA Healthcare has been recognized as one of the World's Most Ethical Companies by the Ethisphere Institute more than ten times. In recent years, HCA Healthcare spent an estimated $3\.7 billion in cost for the delivery of charitable care, uninsured discounts, and other uncompensated expenses.
+
+  
+
+""Bricks and mortar do not make a hospital. People do.""\- Dr. Thomas Frist, Sr.  
+
+HCA Healthcare Co\-Founder
+
+
+If you are looking for an opportunity that provides satisfaction and personal growth, we encourage you to apply for our Senior Machine Learning Reliability Engineer opening. We promptly review all applications. Highly qualified candidates will be contacted for interviews. **Unlock the possibilities and apply today!**
+
+*We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.*",,https://www.glassdoor.com/Overview/W-EI_IE4760573.htm,,,,,,
+1,gd-1009567679406,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009567679406,,Cybersecurity Data Scientist,Hunter Strategy,,2024-12-16,,,,,,,True,,,organic,,"**About Hunter Strategy****Hunter Strategy has a unique philosophy to technical project delivery. We treat all our customers like mission partners because they rely on our team to meet their objectives through complex software engineering, cloud operations, and cyber risk management solutions. Hunter Strategy was founded on the premise that IT is 21st century infrastructure \- critically important but only instrumentally valuable. Accordingly, our teams look at problems with a single objective: the identification and enablement of the right capability to address the most vexing problems our Mission Partners face. We continue to support our partners' success by leveraging the right technology, with the right plan, and the right team to address tomorrow's challenges today.****Job Overview**
+----------------
+
+
+We are seeking a skilled Cybersecurity Data Scientist to join our team. The ideal candidate will leverage advanced data analysis, machine learning, and statistical models to solve critical cybersecurity challenges, drive innovation, and improve decision\-making across our organization.**Key Responsibilities**
+------------------------
+
+* Collect, analyze, and interpret large cybersecurity datasets
+* Develop predictive models to enhance cybersecurity measures
+* Communicate findings effectively to stakeholders to support strategic cybersecurity and modernization efforts
+* Apply Natural Language Processing techniques to cybersecurity data
+* Utilize machine learning algorithms to identify patterns and anomalies in security data
+* Contribute to the development of data\-driven cybersecurity solutions
+* Collaborate with cross\-functional teams to integrate data insights into security operations
+* Stay current with the latest trends and advancements in data science and cybersecurity
+
+**Qualifications**
+------------------
+
+* Minimum of three years of experience as a data scientist, with at least one year of experience working with cybersecurity datasets
+* Strong analytical background and knowledge of Natural Language Processing
+* Extensive experience with Python and data science libraries including Pandas, NumPy, and TensorFlow
+
+**Required Skills**
+-------------------
+
+* Proficiency in statistical analysis and machine learning techniques
+* Experience with data visualization tools and techniques
+* Strong problem\-solving and critical thinking abilities
+* Excellent communication skills, with the ability to explain complex technical concepts to non\-technical stakeholders
+* Familiarity with cybersecurity concepts and common attack vectors
+* Experience with big data technologies (e.g., Hadoop, Spark)
+* Knowledge of SQL and database management
+
+**Preferred Skills**
+--------------------
+
+* Experience with cloud\-based data analytics platforms (e.g., AWS, Azure, GCP)
+* Familiarity with cybersecurity frameworks (e.g., NIST, ISO 27001\)
+* Knowledge of threat intelligence and security information and event management (SIEM) systems
+* Experience with data privacy and compliance regulations (e.g., GDPR, CCPA)
+* Proficiency in other programming languages relevant to data analysis (e.g., R, Java, Scala)
+
+**Education**
+-------------
+
+* Bachelor’s degree in Computer Science, Data Science, Cybersecurity, or a related field
+* Master’s degree preferred
+* Relevant certifications (e.g., CISSP, CEH, CompTIA Security\+) are a plus
+
+  
+
+This position is contingent on contract award.  
+
+  
+
+**Applicant must reside in a HUBZONE:** https://maps.certify.sba.gov/hubzone/map\#center\=44\.722800,\-103\.249700\&zoom\=4",,https://www.glassdoor.com/Overview/W-EI_IE3248996.htm,https://media.glassdoor.com/sql/3248996/hunter-strategy-squarelogo-1580832833723.png,,,,,
+2,gd-1009566302884,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009566302884,,Sr. Associate - Kore.AI developer,Cognizant,"Teaneck, NJ",2024-12-15,,direct_data,yearly,85000.0,115000.0,USD,False,,,sponsored,,"We are seeking a highly skilled Sr. Developer with 6 to 10 years of experience to join our team. The ideal candidate will have expertise in Kore Agent Assist and Kore.AI with a strong background in the Payer domain. This hybrid role requires a proactive individual who can work effectively in a day shift. The candidate will play a crucial role in developing and enhancing our AI\-driven solutions contributing to the companys mission
+
+
+Cognizant’s ‘Customer service Transformation’ team is part of Cognizant’s Enterprise Platform Services (EPS). This is transforming rapidly, thanks to expanding digital technologies, AI\-driven self\-service, and the adoption of cloud. Contact centers have re\-shaped into experience centers that deliver pro\-active, hyper\-personalized services. At Cognizant, you will join a dynamic team that helps create a contact center that remodels traditional customer journeys, selects the right platforms and infuses next\-gen technologies to drive better business outcomes for our clients.
+
+
+Location: Illinois Or Remote. Candidate must be in the U.S
+
+
+Experience: 6\-10 Years
+
+
+Salary and Other Compensation:
+
+
+The annual salary for this position is between $85,000 \- $115,000/Year depending on the experience and other qualifications of the candidate.
+
+
+This position is also eligible for Cognizant’s discretionary annual incentive program and stock awards, based on performance and subject to the terms of Cognizant’s applicable plans.
+
+
+Benefits: Cognizant offers the following benefits for this position, subject to applicable eligibility requirements:
+
+
+Medical/Dental/Vision/Life Insurance
+
+
+* Paid holidays plus Paid Time Off
+
+
+* 401(k) plan and contributions
+
+
+* Long\-term/Short\-term Disability
+
+
+* Paid Parental Leave
+
+
+* Employee Stock Purchase Plan
+
+
+Disclaimer: The salary, other compensation, and benefits information is accurate as of the date of this posting. Cognizant reserves the right to modify this information at any time, subject to applicable law.
+
+
+**Responsibilities**
+
+
+Develop and implement strategies that align with the companys overall goals and objectives.
+
+
+Lead and manage a team of employees providing guidance and support as needed.
+
+
+Ensure that projects are completed on time within budget and to the required quality standards.
+
+
+Collaborate with other departments and stakeholders to ensure that business needs are being met.
+
+
+Analyze data and make recommendations for improvements to processes procedures and systems.
+
+
+Stay up\-to\-date with industry trends and best practices and apply this knowledge to drive innovation and growth.
+
+
+Communicate effectively with employees stakeholders and customers both verbally and in writing.
+
+
+Manage budgets and resources effectively ensuring that all expenditures are justified and aligned with company goals.
+
+
+Ensure compliance with all relevant laws regulations and policies.
+
+
+Help recruit develop and retain other Cognizant Consulting professionals both new hires and existing Cognizant consultants",,https://www.glassdoor.com/Overview/W-EI_IE8014.htm,https://media.glassdoor.com/sql/8014/cognizant-technology-solutions-squareLogo-1651131366751.png,,,,,
+3,gd-1009565834275,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009565834275,,AI Math Analyst - Part Time Work From Home,Outlier Ai,"Aurora, IL",2024-12-14,,direct_data,hourly,30.0,50.0,USD,False,,,sponsored,,"**Outlier helps the world’s most innovative companies improve their AI models by providing human feedback.** **Are you an experienced** **Math Expert****who would like to lend your expertise to train AI models?**
+
+  
+
+
+**About the opportunity:**
+
+  
+
+
+* Outlier is looking for talented **Math Experts** to help train generative artificial intelligence models
+* This freelance opportunity is remote and hours are flexible, so you can work whenever is best for you
+
+
+**You may contribute your expertise by…**
+
+  
+
+
+* Assessing the factuality and relevance of domain\-specific text produced by AI models
+* Crafting and answering questions related to **Math**
+* Evaluating and ranking domain\-specific responses generated by AI models
+
+  
+
+
+**Examples of desirable expertise:**
+
+  
+
+
+* A bachelor's or higher degree in **Math** or a related subject
+* Experience working as a Mathprofessional
+* Ability to write clearly about concepts related to **Math** in fluent English
+
+  
+
+
+**Payment:**
+
+
+* Currently, pay rates for core project work by **Math** experts range from $30 to $50 per hour USD.
+* Rates vary based on expertise, skills assessment, location, project need, and other factors. For example, higher rates may be offered to PhDs. For non\-core work, such as during initial project onboarding or project overtime phases, lower rates may apply. Certain projects offer incentive payments. Please review the payment terms for each project.
+
+
+*PLEASE NOTE: We collect, retain and use personal data for our professional business purposes, including notifying you of opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants’ needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with the* *Outlier Privacy Policy* *and our internal policies and programs designed to protect personal data.*
+
+
+*This is a 1099 contract opportunity on the* *Outlier.ai* *platform. Because this is a freelance opportunity, we do not offer internships, sponsorship, or employment. You must be authorized to work in your country of residence. If you are an international student, you may be able to sign up for Outlier if you are on a visa. You should contact your tax and/or immigration advisor with specific questions regarding your circumstances.*",,https://www.glassdoor.com/Overview/W-EI_IE2858115.htm,https://media.glassdoor.com/sql/2858115/outlier-ai-squareLogo-1715217718702.png,,,,,
+4,gd-1009565851831,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009565851831,,Data Scientist,Legal & General America,"Frederick, MD",2024-12-14,,direct_data,yearly,104300.0,143450.0,USD,False,,,organic,,"Overview:
+
+At Legal \& General America, we aim to make a positive difference in the lives of our customers, partners, colleagues, and the communities in which they live. As a recognized market leader of term life insurance, we’re working to transform our business through innovation and technology to provide products and solutions that help American families secure their financial futures.  
+
+We are a future\-focused company, passionate about what we do and how we do it. This means working with pace and energy to reach our goals, and challenging ourselves to achieve more. We strive to create a unique environment where balance between work and life is possible. Our employees' passion, dedication and hard work, as well as our career development opportunities, benefits, and employee activities contribute to our positive workplace culture.  
+
+The Data Scientist will support the management of all insurance product lines by creating advanced statistical, predictive, and machine learning models focused on: (1\) developing and maintaining the capability to understand and proactively influence the drivers of customer behavior, (2\) optimize the use of data in the risk pricing and underwriting process, (3\) design experiments, test hypotheses, build Machine Learning models/pipelines, and conduct advanced data analysis.
+Responsibilities:
+* Analyze and solve analytics problems and communicate the results, advantages and limitations, of the methodologies used in the analysis. Define the validity of information, how long the information is meaningful, and what other information it relates to.
+* Identify necessary data required to support initial and ongoing modeling including selecting features, building, and optimizing data using predictive modeling. Collaborate with subject matter experts to select relevant sources of information. Procure data directly from relevant platforms, internal and external providers, or by working with IT resources.
+* Model and frame meaningful business scenarios that will impact critical business processes and/or decisions, creating machine learning models and pipelines.
+* Develop a set of actionable parameters and support creation of business models based on those parameters that are designed to influence customer behavior with respect to profitable levels of persistency and mortality.
+* Research current and emerging underwriting data and risk assessment algorithms based on that data, develop a set of actionable parameters for nontraditional underwriting factors, and support the creation of business models that supplement or replace traditional underwriting requirements.
+* Work in conjunction with business analysts to suggest other products of interest to our customers.
+* Develop experimental design approaches to validate findings or test hypotheses and validate analysis by comparing appropriate samples.
+* Recommend ongoing improvements to current data analysis methods and algorithms that will lead to actionable findings, including new information.
+* Provide business metrics for overall projects to show improvements.
+* Evaluate special underwriting practices and facilitate partnerships with underwriting and reinsurers to identify new opportunities and quantify their projected impact on mortality expectations.
+* Develop a continuous internal and external mechanism to collect and analyze underwriting technology and techniques to place and maintain LGA on the forefront of emerging practices.
+* Develop a set of actionable parameters of post issue health changes and lifestyle patterns and support the creation of a business model based on those parameters.
+* Assist in the periodic review and development of actuarial assumptions used for financial analysis of inforce business.
+* Provide support to marketing and administrative areas as required.
+* Other duties as assigned.
+
+
+Qualifications:
+
+Education
+
+
+Master’s degree in /Statistics/Mathematics/Computer Science/ Data Science /Actuarial Science or quantitative field equivalent or Bachelor’s degree with 3\+ years relevant Data Science and/or Predictive Analytics experience.
+
+  
+
+Experience/Knowledge
+
+
+1 – 3 years of school\-project and/or internship experience in applied statistics and data science working with analytical life cycle, including data extraction, analysis to visualization then operational use. Prior data science work experience a plus.
+Familiarity with life insurance mortality modeling and underwriting is a plus, but not required
+Completion of any actuarial exams is a plus, but not required  
+
+Skills
+
+* Proficient in statistical data analysis and machine learning modeling
+* Proficient in Microsoft Excel and Word and one or more database platforms
+* Understand how to analyze large, complex, multi\-dimensional datasets and prescribe action
+* Proficient with statistical analysis tool such as Python
+* Experience with BI tools such as Tableau or Spotfire
+* Good working knowledge of SQL
+* Excellent understanding of machine learning techniques and algorithms
+* Basic understanding of behavioral economics
+* Excellent communication skills, both written and oral
+* Strong organization and documentation skills
+* “Self starting” with internal motivation and initiative
+* Demonstrates the following scientist qualities: clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness
+
+**What’s in it for you?**
+
+  
+
+The expected hiring compensation range for this position is $104,300 \- $143,450 annually. This is a **remote** opportunity operating on EST.  
+
+The total compensation package for this position may include other elements, such as a sign\-on bonus, long term incentives, and annual bonuses. This role is eligible to participate in the Legal \& General America Annual Incentive Plan. The current target payment for the position is 20% of base salary, modified for corporate and individual performance. Bonuses are pro\-rated based on start date. This role has 20 vacation days and 10 sick days that are accrued on a bi\-weekly basis. Employees also have 9 paid holidays throughout the calendar year*.*  
+
+We have a competitive compensation and benefits package focused on your overall wellbeing. Employee benefits include health, life, and dental insurance; 401K with company match up to 6% as well as a pension package; generous time off; and wellbeing initiatives throughout the year (we like doing fun stuff). We’re big on professional development and we’ll support and mentor you in your career progression and expect you to help us pay it forward by helping us develop tomorrow's leaders and growth\-focused professionals. We value our teams and our communities and believe in giving back. Enjoy time off to volunteer for those causes that matter most to you!  
+
+If hired, employee will be in an “at\-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors. The Company reserves the right to change benefits plans at any time. *We are an equal opportunity employer and value diversity at our company. We do not discriminate based on race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, perform essential job functions, and receive other benefits and privileges of employment. Please contact us to request accommodation.*",,https://www.glassdoor.com/Overview/W-EI_IE665702.htm,https://media.glassdoor.com/sql/665702/legal-and-general-america-squarelogo-1563806453974.png,,,,,
+5,go-_7zt6-rsUHUCpZkHAAAAAA==,google,https://www.linkedin.com/jobs/view/data-scientist-engagement-security-at-amazon-web-services-aws-4030450495?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,"Data Scientist , Engagement Security",Amazon Web Services (AWS),"Jersey City, NJ",2024-12-15,,,,,,,False,,,,,"Description
+
+The Data Scientist II will develop predictive models and implement custom Machine Learning (ML) algorithms to enhance security measures, optimize, and improve operational efficiency across global Engagement Security mechanisms.
+
+Key job responsibilities
+• Design, develop, and evaluate innovative ML models to solve diverse obstacles and opportunities across business teams.
+• Listen to security and business teams to identify viable ML opportunities to improve mechanisms and help develop plans from experiments to proof-of-concept to software product.
+• Collaborate with software engineering teams to integrate successful experiments into large-scale, highly complex production services.
+• Rapidly design, prototype, and test many possible hypotheses in a high-ambiguity environment, making use of both quantitative and business judgment. Report results in a scientifically-oriented way.
+• Collaborate with Artificial Intelligence/Machine Learning (AI/ML) peers to research, design, develop, and evaluate cutting-edge generative AI algorithms to address real-world security and engagement delivery obstacles.
+• Create and deliver best practice recommendations, tutorials, blog posts, sample code, and presentations adapted to technical, business, and executive stakeholders. Support adoption of these to impact multiple teams and customers.
+• Support the development of security guidance on the use of AI/ML, particularly generative AI.
+
+A day in the life
+
+You will collaborate extensively with cross-functional teams to drive innovative, data-driven solutions to support AWS business units. Review program data and metrics to help optimize. Meet with teams to ideate appropriate data analysis techniques for streamlining workflows, automating processes, and enabling data-driven decision-making across various SMGS Engagement Security programs. Report updates and insights from your work to leadership. Collaborate to develop comprehensive metrics and reporting, integrate data sources and design visualizations for actionable insights. Provide thought leadership through proof of concepts, blogs, presentations and white papers.
+
+About The Team
+
+Amazon Web Services (AWS) is looking for world-class scientists to join the Sales, Market, and Global Services (SMGS) Engagement Security team. SMGS Engagement Security protects customers and the AWS business by developing and operating security mechanisms and services for SMGS. We provide directive security guidance, preventative security controls, detective security mechanisms, and responsive security services throughout customer-facing engagements and internal operations and we are accelerating our adoption of AI/ML. Our highly collaborative team is committed to each team member’s growth as our business and team grows.
+
+About Aws
+
+Diverse Experiences
+
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+Why AWS
+
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+
+Work/Life Balance
+
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+
+Inclusive Team Culture
+
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.
+
+Mentorship and Career Growth
+
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+Basic Qualifications
+• 3+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience
+• 3+ years of machine learning/statistical modeling data analysis tools and techniques, and parameters that affect their performance experience
+• 3+ years of data scientist or similar role involving data extraction, analysis, statistical modeling and communication experience
+• Experience developing experimental and analytic plans for data modeling processes, use of strong baselines, ability to accurately determine cause and effect relations
+• Bachelor's degree
+
+Preferred Qualifications
+• Knowledge of relevant statistical measures such as confidence intervals, significance of error measurements, development and evaluation data sets, etc.
+• Experience with deep learning (e.g., CNN, RNN, LSTM, Transformer)
+• Experience in training and fine-tuning of Large Language Models (LLMs)
+• Experience with data visualization using Tableau, Quicksight, or similar tools
+• Experience collaborating with business owners, understanding data assets, and recommending data analysis and data science techniques to improve the customer experience
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $125,500/year in our lowest geographic market up to $212,800/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+Company - Amazon Web Services, Inc.
+
+Job ID: A2780433",,,,,,,,
+6,go-HlWgf1h_6AlCf9VMAAAAAA==,google,"https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Senior,-Data-Scientist-(Computer-Vision-Engineer)/-in-New-York,NY?jid=6a8a212b79811634&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,"(USA) Senior, Data Scientist (Computer Vision Engineer)",Walmart,"New York, NY",2024-12-14,internship,description,yearly,108000.0,216000.0,USD,False,,,,,"Position Summary...
+
+What you'll do...
+
+As a Computer Vision Engineer, you will be designing, training and deploying state-of-art AI models in real-world production environment. In conjunction with multiple product and technology groups, you will work to create a best-in-class consumer experience in the physical retail space.
+
+You'll sweep us off our feet if....
+• Experience solving complex problems and comparing alternative solutions, tradeoffs, and diverse points of view to determine a path forward.
+• Demonstrated software engineer experience via an internship, work experience, coding competitions, or widely used contributions in open-source repositories (e.g. GitHub).
+• Experience with research and development of computer vision (object detection, tracking, scene understanding)
+
+You'll make an impact by...
+• Developing computer vision algorithms and machine learning models to enhance different customer facing application.
+• Collaborate within projects within a mixed team of software engineer and computer vision engineer.
+• Follow and apply engineering and computer vision best practices,
+
+What you'll do...
+• Research, develop and analyze computer vision algorithms in areas related to object detection, tracking, product identification and verification, scene understanding.
+• Ensure model robustness, model generalization, accuracy, testability, and efficiency.
+• Write product or system development code.
+
+What you'll bring...
+• Currently has, or is in the process of obtaining, a PhD degree in Computer Science, Computer Vision, relevant technical field, or equivalent practical experience. Or MS with 2 years industry experience
+• Experience in one or more of the following areas: machine learning, deep learning, computer vision
+• Experience in programming languages with a technical background
+• You are a team player - that is, you're a nice person - see no ego.
+• Highly motivated and independent; results oriented.
+• A self-learner: ability to effectively adapt to rapidly changing technology and apply it to business needs, integrate multiple tools together to solve business problems.
+
+Analytical Modeling: Requires knowledge of feature relevance and selection; Exploratory data analysis methods and techniques; Advanced statistical methods and best-practice advanced modelling techniques (e.g., graphical models, Bayesian inference, basic level of NLP, Vision, neural networks, SVM, Random Forest etc.); Multivariate calculus; Statistical models behind standard ML models; Advanced excel techniques and Programming languages like R/Python; Basic classical optimization techniques (e.g., Newton-Rapson methods, Gradient descent); Numerical methods of optimization (e.g. Linear Programming, Integer Programming, Quadratic Programming, etc.) To select the analytical modeling technique most suitable for the structured, complex data and develops custom analytical models. Conduct exploratory data analysis activities (for example, basic statistical analysis, hypothesis testing, statistical inferences) on available data. Define and finalize features based on model responses and introduces new or revised features to enhance the analysis and outcomes. Identify the dimensions of the experiment, finalize the design, test hypotheses, and conduct the experiment. Perform trend and cluster analysis on data to answer practical business problems and provide recommendations and key insights to the business. Mentor and guide junior associates on basic modeling and analytics techniques to solve complex problems.
+
+Demonstrates up-to-date expertise and applies this to the development, execution, and improvement of action plans by providing expert advice and guidance to others in the application of information and best practices; supporting and aligning efforts to meet customer and business needs; and building commitment for perspectives and rationales.
+
+Provides and supports the implementation of business solutions by building relationships and partnerships with key stakeholders; identifying business needs; determining and carrying out necessary processes and practices; monitoring progress and results; recognizing and capitalizing on improvement opportunities; and adapting to competing demands, organizational changes, and new responsibilities.
+
+Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity by incorporating these into the development and implementation of business plans; using the Open Door Policy; and demonstrating and assisting others with how to apply these in executing business processes and practices.
+Live our ValuesCulture Champion• Models the Walmart values to foster our culture; holds oneself and others accountable; and supports Walmart's commitment to communities, social justice, corporate social responsibility, and sustainability; maintains and promotes the highest standards of integrity, ethics and compliance.Servant Leadership• Acts as an altruistic servant leader and is consistently humble, self-aware, honest, and transparent.Embrace ChangeCuriosity & Courage• Demonstrates curiosity and a growth mindset; fosters an environment that supports learning, innovation, and intelligent risk-taking; and exhibits resilience in the face of setbacks.Digital Transformation & Change• Seeks and implements continuous improvements and encourages the team to leverage new digital tools and ways of working.Deliver for the CustomerCustomer Focus• Delivers expected business results while putting the customer first and consistently applying an omni-merchant mindset and the EDLP and EDLC business models to all plans.Strategic Thinking• Adopts a holistic perspective that considers data, analytics, customer insights, and different parts of the business when making plans and shaping the team's strategy.Focus on our Associates
+Diversity, Equity & Inclusion• Embraces diversity in all its forms and actively supports diversity of ideas and perspectives, as well as diversity goal programs.Collaboration & Influence• Builds strong and trusting relationships with team members and business partners; works collaboratively and cross-functionally to achieve objectives; and communicates with energy and positivity to motivate, influence, and inspire commitment and action.Talent Management• Contributes to an environment allowing everyone to bring their best selves to work, demonstrates engagement and commitment to the team, and recognizes others' contributions and accomplishments.
+
+At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.
+
+You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.
+
+For information about PTO, see https://one.walmart.com/notices .
+
+Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.
+
+Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
+
+For information about benefits and eligibility, see One.Walmart .
+
+At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.
+
+You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.
+
+For information about PTO, see https://one.walmart.com/notices .
+
+Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.
+
+Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
+
+For information about benefits and eligibility, see One.Walmart .
+
+Hoboken, New Jersey US-10279:The annual salary range for this position is $108,000.00-$216,000.00
+
+Sunnyvale, California US-08479:The annual salary range for this position is $117,000.00-$234,000.00
+
+Additional compensation includes annual or quarterly performance bonuses.
+
+Additional compensation for certain positions may also include:
+
+- Stock
+
+Minimum Qualifications...
+
+Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.
+
+Option 1- Bachelor's degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field. Option 2- Master's degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 1 years' experience in an analytics related field. Option 3 - 5 years' experience in an analytics or related field.
+
+Preferred Qualifications...
+
+Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.
+
+Data science, machine learning, optimization models, Master's degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart's accessibility standards and guidelines for supporting an inclusive culture.
+
+Primary Location...
+
+221 River St, Hoboken, NJ 07030, United States of America",,,,,,,,
+7,go-bG53giqebI-QJknmAAAAAA==,google,https://careers.blackrock.com/job/new-york/data-scientist-client-intelligence-platform-ai-vice-president/45831/74464525920?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,"Data Scientist - Client Intelligence Platform AI, Vice President",BlackRock,"New York, NY",2024-12-13,,description,yearly,150000.0,204000.0,USD,False,,,,,"About this role
+
+Who we are:
+
+At BlackRock, we are passionate about technology. We leverage technology to develop actionable solutions that increase productivity, efficiency, and revenues of our sales, service, and product strategy teams.
+
+The role requires working closely with the client business, as well as engineering and product management teams to ensure that data-driven solutions are delivered systematically and with the highest impact.
+
+You will also partner with internal technology teams on infrastructure, tools, processes, standards, and development, as well as other AI teams across the organization.
+
+The successful candidate will have a passion for technology, comfort working across a range of technology capabilities, including databases, software, and infrastructure, and a love of solving complex problems.
+
+Responsibilities:
+• Create data-driven solutions to forecast, analyze and provide recommendations that A) generate sales alpha and identify cross-sell/up-sell opportunities, and B) improve the client experience.
+• Deliver Gen AI enabled first-drafts and a chatbot experience to improve the productivity, effectiveness, and strategy of our relationship managers, product teams, COO partners and chiefs of staff.
+• Use cutting-edge tools and AI techniques, including both traditional ML and Gen AI, to implement models and insights into products and services.
+• Collaborate with other data scientists and AI engineers across the firm on best practices, code review, internal tools, and process improvements
+
+You should have:
+• Bachelor's degree required, Master's degree preferred, in a quantitative discipline (computer science, mathematics, statistics, economics, physics, engineering or related discipline)
+• Asset management / finance work experience
+• Minimum 5+ years work experience with being a Technical Lead / Manager a plus
+• Intellectual curiosity and a passion for data and emerging technology is a must
+• Highly quantitative, with a keen eye for teasing out insights from volumes of data
+• Ability to collaborate and present insights to internal stakeholders
+• Strong team player
+• Technology-savvy and ability to work in multiple systems and languages
+• Knowledge of model and algorithm development (mathematical and statistical knowledge)
+• Knowledge of NLP and Gen AI
+• Proficiency in SQL and Python for programming, data analysis, and modelling
+• Experience of developing solutions such as databases, API’s to both source and provide data, and automation a plus
+
+For New York City only: The salary range for this position is $150,000 - $204,000. Additionally, employees are eligible for an annual discretionary bonus, and benefits including heath care, leave benefits, and retirement benefits. BlackRock operates a pay-for-performance compensation philosophy and your total compensation may vary based on role, location, and firm, department and individual performance.
+
+Our benefits
+
+To help you stay energized, engaged and inspired, we offer a wide range of benefits including a strong retirement plan, tuition reimbursement, comprehensive healthcare, support for working parents and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about.
+
+Our hybrid work model
+
+BlackRock’s hybrid work model is designed to enable a culture of collaboration and apprenticeship that enriches the experience of our employees, while supporting flexibility for all. Employees are currently required to work at least 4 days in the office per week, with the flexibility to work from home 1 day a week. Some business groups may require more time in the office due to their roles and responsibilities. We remain focused on increasing the impactful moments that arise when we work together in person – aligned with our commitment to performance and innovation. As a new joiner, you can count on this hybrid model to accelerate your learning and onboarding experience here at BlackRock.
+
+About BlackRock
+
+At BlackRock, we are all connected by one mission: to help more and more people experience financial well-being. Our clients, and the people they serve, are saving for retirement, paying for their children’s educations, buying homes and starting businesses. Their investments also help to strengthen the global economy: support businesses small and large; finance infrastructure projects that connect and power cities; and facilitate innovations that drive progress.
+
+This mission would not be possible without our smartest investment – the one we make in our employees. It’s why we’re dedicated to creating an environment where our colleagues feel welcomed, valued and supported with networks, benefits and development opportunities to help them thrive.
+
+For additional information on BlackRock, please visit @blackrock | Twitter: @blackrock | LinkedIn: www.linkedin.com/company/blackrock
+
+BlackRock is proud to be an Equal Opportunity and Affirmative Action Employer. We evaluate qualified applicants without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, disability, protected veteran status, and other statuses protected by law.
+
+BlackRock will consider for employment qualified applicants with arrest or conviction records in a manner consistent with the requirements of the law, including any applicable fair chance law.",,,,,,,,
+8,go-0CPbg3YLC-Nq-i8UAAAAAA==,google,https://www.linkedin.com/jobs/view/senior-generative-ai-data-scientist-amazon-sagemaker-at-amazon-web-services-aws-4099135373?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,"Senior Generative AI Data Scientist, Amazon SageMaker",Amazon Web Services (AWS),"Jersey City, NJ",2024-12-13,,,,,,,False,,,,,"Description
+
+Are you passionate about Generative AI (GenAI)? Do you want to help define the future of Go to Market (GTM) at AWS using generative AI? In this role, you will help some of our largest customers build and deploy GenAI enabled applications using Amazon SageMaker, fine tune and build Generative AI models, and help enterprise customers leverage these models to power end applications. You will engage with AWS product owners to influence product direction and help our customers tap into new markets by utilizing GenAI along with AWS Services.
+
+At Amazon, we’ve been investing deeply in artificial intelligence for over 20 years, and many of the capabilities customers experience in our products are driven by machine learning. Amazon.com’s recommendations engine is driven by machine learning (ML), as are the paths that optimize robotic picking routes in our fulfillment centers. Our supply chain, forecasting, and capacity planning are also informed by ML algorithms. Alexa is fueled by Natural Language Understanding and Automated Speech Recognition deep learning; as is Prime Air, and the computer vision technology in our new retail experience, Amazon Go. We have thousands of engineers at Amazon committed to machine learning and deep learning, and it’s a big part of our heritage.
+
+AWS is looking for a Generative AI Data Scientist, who will be the Subject Matter Expert (SME) for helping customers in designing solutions that leverage our Generative AI services. You will interact with customers directly to understand the business problem, help and aid them in implementation of generative AI solutions, deliver briefing and deep dive sessions to customers and guide customer on adoption patterns and paths for generative AI. As part of the Generative AI Worldwide Specialist organization, you will work closely with other Data Scientists and Machine Learning Architects from various geographies to enable large-scale customer use cases and drive the adoption of Amazon Web Services for GenAI services. You will interact with other Data Scientists and Solution Architects in the field, providing guidance on their customer engagements. You will develop white papers, blogs, reference implementations, and presentations to enable customers and partners to fully leverage Generative AI services on Amazon Web Services. You will also create field enablement materials for the broader technical field population, to help them understand how to integrate AWS Generative AI solutions into customer architectures. You drive effective feedback gathering from customers, and you distill and translate that feedback into clear business and technical requirements for product and engineering teams to review.
+
+You must have deep technical experience working with technologies related to large language models including LLM architectures, model evaluation, adapters, pre-training and fine-tuning techniques. You should be proficient with design, deployment, and evaluation of LLM-powered agents and tools and orchestration approaches. You must have experience with embedding model fine tuning and retrieval method evaluation approaches.
+
+Candidates must have great communication skills and be very technical, with the ability to impress Amazon Web Services customers at any level, from executive to developer. Previous experience with Amazon Web Services is desired but not required, provided you have experience building large scale solutions. You will get the opportunity to work directly with senior ML engineers and Data Scientists at customers, partners and Amazon Web Services service teams, influencing their roadmaps and driving innovation.
+
+Key job responsibilities
+• Customer Advisor- Implement, and deploy state of the art machine learning algorithms under Gen AI. You will build prototypes, PoCs, and explore new solutions. You will interact closely with our customers and with the academic community.
+• Thought Leadership – Evangelize AWS GenAI services and share best practices through forums such as AWS blogs, white-papers, reference architectures and public-speaking events such as AWS Summit, AWS re:Invent, etc.
+• Partner with Data Scientists, SAs, Sales, Business Development and the Generative AI Service teams to accelerate customer adoption and providing guidance on their customer engagements.
+• Act as a technical liaison between customers and the AWS Generative AI services teams to provide customer driven product improvement feedback.
+• Develop and support an AWS internal community of ML related subject matter experts worldwide. Create field enablement materials for the broader technical population, to help them understand how to integrate AWS GenAI solutions into customer architectures.
+
+About The Team
+
+Why AWS
+
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+
+Inclusive Team Culture
+
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.
+
+Work/Life Balance
+
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+
+Mentorship and Career Growth
+
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+Diverse Experiences
+
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+Basic Qualifications
+• 5+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience
+• 5+ years of data scientist experience
+• Experience with statistical models e.g. multinomial logistic regression
+• 5+ years of experience with Python to analyze datasets, train , evaluate, deploy, and optimize models.
+
+Preferred Qualifications
+• 2+ years of data visualization using AWS QuickSight, Tableau, R Shiny, etc. experience
+• Experience managing data pipelines
+• Experience as a leader and mentor on a data science team
+• Experience as a leader and mentor on a data science team
+• Experience with open source frameworks for building applications powered by language models like LangChain, LlamaIndex.
+• Design, develop, and optimize high-quality prompts and templates that guide the behavior and responses of LLM.
+• Experience with design, deployment, and evaluation of LLM-powered agents and tools and orchestration approaches
+• Customer facing skills to represent AWS well within the customer’s environment and drive discussions with senior personnel regarding trade-offs, best practices, and risk mitigation. Should be able to interact with Chief Data Science Officers, as well as the people within their organizations.
+• Demonstrated ability to think strategically about business, product, and technical challenges in an enterprise environment. Track record of thought leadership and innovation around Machine Learning.
+• Led a cloud initiative as an AWS customer or consulting with a customer in their own IT transformation.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $143,300/year in our lowest geographic market up to $247,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+Company - Amazon Web Services, Inc.
+
+Job ID: A2853071",,,,,,,,
+9,go-NcrwgY1Dhoy-w7uoAAAAAA==,google,https://www.linkedin.com/jobs/view/capgemini-invent-data-scientist-%E2%80%93-data-driven-transformation-at-capgemini-invent-4101201213?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,"Capgemini Invent, Data Scientist – Data Driven Transformation",Capgemini Invent,"New York, NY",2024-11-25,fulltime,,,,,,False,,,,,"Candidates can be based out of Chicago | Atlanta | New York Metro
+
+As a Data Scientist in the Data Driven Transformation Team of Capgemini Invent you will help clients in the transform and improve their operations by leveraging insights from underlying business, commercial, process, or machine data. You will be advising our clients on solution approach, design, implementation, and roll-out of Data Science solutions. You are a key expert in building innovative solutions and can implement those.
+
+Responsibilities
+• You will help define and develop Data Science solutions, and advise on solution development, testing and roll-out.
+• You will build components of technical solutions on your own, and in team with other engineers (e.g. ML Models, anomaly detection algorithms, etc.)
+• You will help run energetic workshops with clients to identify pain-points, desires, as-is situation, solution path, solution design, etc.
+• You will find and cultivate opportunities for improvement and grow the business within your space
+• You will help promote program/ solution/ team success internally and at the client
+
+Requirements
+• Degree in Mathematics, STEM, or a related field.
+• Strong ability to translate data into actionable insights and provide business recommendations.
+• Experience with data science, data analytics, data visualization, and AI tools.
+• Proven Data Science experience in preferably either in industries such as Consumer Products and Retail, MALS (Manufacturing, Automotive and Life Sciences), Energy & Utilities, or in the Consulting industry.
+• Agile knowledge and project management familiarity
+• Either Industrial, Customer, Commercial, or Operations Data Analytics Experience
+• Experience in delivering AI / Analytics use cases
+• Experience with some of these programming languages such as Python, SQL, JAVA, C++, C, MATLAB
+• Excellent communication skills with the ability to convey complex insights in a clear and understandable manner.
+• Proven ability to be successful in a matrixed organization, and to enlist support and commitment from peers in selling and delivering consulting solutions.
+• Currently working in a Consulting firm or in industry
+
+Life at Capgemini
+
+Capgemini Supports All Aspects Of Your Well-being Throughout The Changing Stages Of Your Life And Career. For Eligible Employees, We Offer
+• Flexible work
+• Healthcare including dental, vision, mental health, and well-being programs
+• Financial well-being programs such as 401(k) and Employee Share Ownership Plan
+• Paid time off and paid holidays
+• Paid parental leave
+• Family building benefits like adoption assistance, surrogacy, and cryopreservation
+• Social well-being benefits like subsidized back-up child/elder care and tutoring
+• Mentoring, coaching and learning programs
+• Employee Resource Groups
+• Disaster Relief
+
+About Capgemini Invent
+
+We challenge the status quo to craft and build transformative human experiences that win hearts and move markets. 
+
+Partnering with passionate leaders and visionary entrepreneurs, we apply creativity, strategy, design and data to re-invent businesses, drive growth and orchestrate customer centric transformation.
+
+Together we strive to shape a regenerative future that is both sustainable and inclusive for businesses, people and planet.
+
+Disclaimer
+
+Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.
+
+This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship.
+
+Capgemini is committed to providing reasonable accommodations during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.
+
+Click the following link for more information on your rights as an Applicant http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law
+
+Please be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process.
+
+Applicants for employment in the US must have valid work authorization that does not now and/or will not in the future require sponsorship of a visa for employment authorization in the US by Capgemini.
+
+Capgemini discloses salary range information in compliance with state and local pay transparency obligations. The disclosed range represents the lowest to highest salary we, in good faith, believe we would pay for this role at the time of this posting, although we may ultimately pay more or less than the disclosed range, and the range may be modified in the future. The disclosed range takes into account the wide range of factors that are considered in making compensation decisions including, but not limited to, geographic location, relevant education, qualifications, certifications, experience, skills, seniority, performance, sales or revenue-based metrics, and business or organizational needs. At Capgemini, it is not typical for an individual to be hired at or near the top of the range for their role. The base salary range for the tagged location is $120,000 to $150,000. This role may be eligible for other compensation including variable compensation, bonus, or commission. Full time regular employees are eligible for paid time off, medical/dental/vision insurance, 401(k), and any other benefits to eligible employees. Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, or any other form of compensation that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.",,,,,,,,
+10,in-b9da8061f18eb029,indeed,https://www.indeed.com/viewjob?jk=b9da8061f18eb029,https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/Hartford-CT/Data-Scientist_R2419122,Data Scientist,The Hartford,"Hartford, CT, US",2024-12-16,fulltime,direct_data,yearly,87120.0,130680.0,USD,True,,,,,"Data Scientist \- GD08AE
+We’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportunity to achieve your goals – and to help others accomplish theirs, too. Join our team as we help shape the future.  
+
+The Hartford seeks a data scientist within a multidisciplinary actuarial/data science team responsible for designing and delivering powerful analytical insights utilizing statistical modeling, machine learning, and data engineering techniques to enhance and overhaul core actuarial processes. Our team is a cross\-functional team of data scientists, data engineers, and actuaries working in a highly collaborative environment which involves heavy interaction with partner\-customers across actuarial, product, and data science.
+We seek candidates with a strong foundation in statistical modeling and/or machine learning who have a drive for finding novel and efficient solutions to maximize business value. As a data scientist, you will participate in the entire model lifecycle partnering with cross\-functional business and technical partners to understand business strategies and design, develop, implement, and evolve loss modeling solutions. Our team culture prioritizes flexibility and innovation, so an aptitude and desire to research state\-of\-the\-industry solutions is a must, along with an aptitude to learn new tools and languages as necessary. This role will involve communicating model results to varying business partners so strong communication and presentation skills are required.
+This role can have a Hybrid or Remote work arrangement. Candidates who live near one of our locations will have the expectation of working in an office 3 days a week (Tuesday through Thursday). Candidates who do not live near an office should maintain their current work arrangement with the expectation of coming into the office as business needs arise.
+Responsibilities:* Create statistical models, algorithms, and machine learning techniques to enhance traditional actuarial processes and assumptions
+* Think creatively to envision how we can enhance long\-standing actuarial methodology using statistical modeling and machine learning techniques
+* Use R and/or Python to build, maintain, and support loss models across different lines of business
+* Participate in reviewing work with business partners and team members on an ongoing basis to calibrate deliverables against expectations and effectively translate results to business initiatives
+* Develop knowledge of The Hartford's formal and informal structures, business processes, and data sources
+* Participate in the creation and deployment of long\-term tools to continually evolve the business
+* Contribute to the successful implementation of strategies to achieve targeted business objectives
+* Remain current on research techniques and become familiar with state\-of\-the\-art tools applicable to your function
+
+
+Qualifications:* 5\+ years of relevant experience recommended
+* Preference for at least one of:
+	+ Master’s in Statistics, Applied Mathematics, Data Science, Computer Science, Actuarial Science, or a similar analytical field
+	+ Progress towards relevant professional credentials (e.g. FCAS, FSA, CSPA)
+* Experience in statistical modeling, inference, and building machine learning algorithms in Python and/or R
+* Experience in SQL and navigating databases to extract relevant attributes
+* Experience in Unix, Git, Shiny and R Markdown is a plus
+* Experience in the end\-to\-end modeling lifecycle, from requirements gathering to monitoring and validation
+* Able to communicate effectively with both technical and non\-technical audiences
+* High level of independence, but is also a team player that demonstrates a high level of ownership
+* Results driven with commitment to meeting deadlines
+
+
+Candidate must be authorized to work in the US without company sponsorship. The company will not support the STEM OPT I\-983 Training Plan endorsement for this position.
+Compensation
+The listed annualized base pay range is primarily based on analysis of similar positions in the external market. Actual base pay could vary and may be above or below the listed range based on factors including but not limited to performance, proficiency and demonstration of competencies required for the role. The base pay is just one component of The Hartford’s total compensation package for employees. Other rewards may include short\-term or annual bonuses, long\-term incentives, and on\-the\-spot recognition. The annualized base pay range for this role is:
+$87,120 \- $130,680
+Equal Opportunity Employer/Females/Minorities/Veterans/Disability/Sexual Orientation/Gender Identity or Expression/Religion/Age",,https://www.indeed.com/cmp/The-Hartford,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/47f10cea3ca8393ab83d15732fdc454b,https://www.thehartford.com,"Hartford, CT","10,000+",more than $10B (USD),"With more than 200 years of expertise The Hartford (NYSE: HIG) is a leader in property and casualty insurance, group benefits & mutual funds"
+11,in-9820c045910b06e3,indeed,https://www.indeed.com/viewjob?jk=9820c045910b06e3,https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/Hartford-CT/Senior-Data-Scientist_R2419121,Senior Data Scientist,The Hartford,"Hartford, CT, US",2024-12-16,fulltime,direct_data,yearly,106960.0,160440.0,USD,True,,,,,"Sr Data Scientist \- GD07AE
+We’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportunity to achieve your goals – and to help others accomplish theirs, too. Join our team as we help shape the future.  
+
+The Hartford seeks a data scientist within a multidisciplinary actuarial/data science team responsible for designing and delivering powerful analytical insights utilizing statistical modeling, machine learning, and data engineering techniques to enhance and overhaul core actuarial processes. Our team is a cross\-functional team of data scientists, data engineers, and actuaries working in a highly collaborative environment which involves heavy interaction with partner\-customers across actuarial, product, and data science.
+We seek candidates with a strong foundation in statistical modeling and/or machine learning who have a drive for finding novel and efficient solutions to maximize business value. As a data scientist, you will participate in the entire model lifecycle partnering with cross\-functional business and technical partners to understand business strategies and design, develop, implement, and evolve loss modeling solutions. Our team culture prioritizes flexibility and innovation, so an aptitude and desire to research state\-of\-the\-industry solutions is a must, along with an aptitude to learn new tools and languages as necessary. This role will involve communicating model results to varying business partners so strong communication and presentation skills are required.
+This role can have a Hybrid or Remote work arrangement. Candidates who live near one of our locations will have the expectation of working in an office 3 days a week (Tuesday through Thursday). Candidates who do not live near an office should maintain their current work arrangement with the expectation of coming into the office as business needs arise.
+Responsibilities:* Create statistical models, algorithms, and machine learning techniques to enhance traditional actuarial processes and assumptions
+* Think creatively to envision how we can enhance long\-standing actuarial methodology using statistical modeling and machine learning techniques
+* Use R and/or Python to build, maintain, and support loss models across different lines of business
+* Participate in reviewing work with business partners and team members on an ongoing basis to calibrate deliverables against expectations and effectively translate results to business initiatives
+* Develop knowledge of The Hartford's formal and informal structures, business processes, and data sources
+* Participate in the creation and deployment of long\-term tools to continually evolve the business
+* Contribute to the successful implementation of strategies to achieve targeted business objectives
+* Remain current on research techniques and become familiar with state\-of\-the\-art tools applicable to your function
+
+
+Qualifications:* 5\+ years of relevant experience recommended
+* Preference for at least one of:
+	+ Master’s in Statistics, Applied Mathematics, Data Science, Computer Science, Actuarial Science, or a similar analytical field
+	+ Progress towards relevant professional credentials (e.g. FCAS, FSA, CSPA)
+* Experience in statistical modeling, inference, and building machine learning algorithms in Python and/or R
+* Experience in SQL and navigating databases to extract relevant attributes
+* Experience in Unix, Git, Shiny and R Markdown is a plus
+* Experience in the end\-to\-end modeling lifecycle, from requirements gathering to monitoring and validation
+* Able to communicate effectively with both technical and non\-technical audiences
+* High level of independence, but is also a team player that demonstrates a high level of ownership
+* Results driven with commitment to meeting deadlines
+
+
+Candidate must be authorized to work in the US without company sponsorship. The company will not support the STEM OPT I\-983 Training Plan endorsement for this position.
+Compensation
+The listed annualized base pay range is primarily based on analysis of similar positions in the external market. Actual base pay could vary and may be above or below the listed range based on factors including but not limited to performance, proficiency and demonstration of competencies required for the role. The base pay is just one component of The Hartford’s total compensation package for employees. Other rewards may include short\-term or annual bonuses, long\-term incentives, and on\-the\-spot recognition. The annualized base pay range for this role is:
+$106,960 \- $160,440
+Equal Opportunity Employer/Females/Minorities/Veterans/Disability/Sexual Orientation/Gender Identity or Expression/Religion/Age",,https://www.indeed.com/cmp/The-Hartford,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/47f10cea3ca8393ab83d15732fdc454b,https://www.thehartford.com,"Hartford, CT","10,000+",more than $10B (USD),"With more than 200 years of expertise The Hartford (NYSE: HIG) is a leader in property and casualty insurance, group benefits & mutual funds"
+12,in-b62c6305a9c6ac64,indeed,https://www.indeed.com/viewjob?jk=b62c6305a9c6ac64,http://www.indeed.com/job/ai-specialist-b62c6305a9c6ac64,AI Specialist,Programmer's,"Chicago, IL, US",2024-12-16,fulltime,direct_data,yearly,91616.0,116006.0,USD,False,,,,,"**About Programmers, Inc.:**
+
+Programmers, Inc. is a trusted software development partner, dedicated to driving innovation and delivering tangible business value to companies globally. With a focus on iterative product development, application modernization, and actionable analytics, we empower clients to achieve their objectives swiftly and precisely. Leveraging 30 years of expertise, Programmers, Inc. employs top\-tier talent to propel client progress forward.
+
+**About the Role:**
+
+We are looking for a professional capable of delivering presentations and technical training to internal teams and partners, in addition to working directly with clients to continuously develop innovative solutions. This professional must be involved in communities and events related to Artificial Intelligence.
+
+**Requirements:**
+
+* Experience with large language models (LLMs) such as ChatGPT, LLama, and Claude.
+* Python development experience in all phases of development, from conception to deployment, with a focus on automation and scalability.
+* Software engineering experience.
+* Experience developing and integrating APIs to connect and streamline processes.
+* Experience with Azure services, implementing foundational cloud solutions.
+* Proactive and results\-oriented, with a strong ability to lead stakeholder discussions and translate business needs into practical solutions.
+* Ability to deliver presentations and technical training to international teams and partners, aligning AI solutions with customer business and technical needs.
+
+Elevate your career with Programmers Inc., where innovation meets opportunity, and every success story is fueled by collaboration. Join us in shaping the future of technology solutions and driving meaningful impact for businesses worldwide.
+
+Job Type: Full\-time
+
+Work Location: In person",,https://www.indeed.com/cmp/Programmer's,,,,,,
+13,in-f51c692526d75efa,indeed,https://www.indeed.com/viewjob?jk=f51c692526d75efa,https://app.loxo.co/job/MTUxNzQtM2V6NmF5eG5xNnVucmpmeA==?source_type=indeed&t=1734373879,Data Scientist - Manager - Star 2330-04,Integrated Intel Solutions,"Chantilly, VA, US",2024-12-16,,direct_data,yearly,126009.0,159556.0,USD,False,,,,,"Data Scientist\- \-Manager  
+
+REQUIRED SKILLS* Demonstrated experience providing system engineering support of integration, coordination, and documentation of new COTS capabilities into a customer's environment
+* Demonstrated experience providing data science support of evaluation of new Al/ML capabilities into a customer's environment
+* Demonstrated experience supporting and developing systems leveraging cloud services and cloud infrastructure
+* Demonstrated experience conducing forensics of multimedia (images, videos, and audio)
+* Demonstrated experience with current deepfake creation and detection methods
+
+
+DESIRED SKILLS* Demonstrated project management experience
+* Demonstrated experience using MS Teams
+* Demonstrated experience supporting lifecycle processes related to publicly available information collected to address a specific requirement.
+* Demonstrated experience with existing Sponsor environment relating to the collection and processing of publicly available information.",,https://www.indeed.com/cmp/Integrated-Intel-Solutions,,,,,,
+14,in-ebaa0b78429f95f9,indeed,https://www.indeed.com/viewjob?jk=ebaa0b78429f95f9,https://bonfy-ai.breezy.hr/p/12d0966d14d6-senior-machine-learning-engineer-ai-ml-nlp?source=indeed,"Senior Machine Learning Engineer (AI, ML, NLP)",,"Mountain View, CA, US",2024-12-01,fulltime,direct_data,yearly,144966.0,183560.0,USD,False,,,,,"At **Bonfy.AI**, we're quietly working on the next frontier of trustworthy AI. If you thrive on solving tough problems, creating from scratch, and scaling transformative solutions, we want you on our team.
+
+
+As a **Senior Machine Learning Engineer**, you'll have a rare opportunity to combine cutting\-edge AI with algorithmic innovation to tackle problems that matter. You won't just tune models—you'll develop, own, and deploy unique systems that ensure AI works safely, responsibly, and at scale. This role is for builders, problem\-solvers, and creators who love pushing the boundaries of what's possible in machine learning.
+
+
+**What You'll Do**
+
+
+* Design and implement machine learning models that power real\-world applications in anomaly detection, classification, and beyond.
+* Develop **end\-to\-end pipelines**, from data acquisition and preprocessing to model training and seamless production deployment.
+* Solve algorithmic challenges, building innovative solutions from the ground up rather than relying solely on open\-source tools.
+* Stay ahead of the curve by evaluating emerging techniques and integrating best practices into our workflows.
+* Collaborate with a small, high\-impact team to ensure seamless integration and scalability of your work in live environments.
+* Provide mentorship to team members and help shape the future of Bonfy.AI's technology roadmap.
+
+**Who You Are**
+
+
+* A Python **power user**, capable of building production\-grade applications and delivering robust systems to market.
+* A mathematically inclined engineer with a deep understanding of algorithms and their applications in machine learning.
+* A problem\-solver who sees opportunity in ambiguity and can translate it into scalable, elegant solutions.
+* An engineer with 5\+ years of experience in **designing, training, and deploying commercial\-grade machine learning systems**.
+* Comfortable with cloud platforms like AWS, Google Cloud, or Azure, and adept at scaling AI models for real\-world use.
+
+**Your Impact**
+
+
+At Bonfy.AI, you'll play a direct role in building systems that set a new standard for trustworthy AI. Join us to create technology that matters—and to shape the future of how AI and human\-generated data interact safely, responsibly, and at scale.
+
+
+**Additional Details**
+
+
+* Must be authorized to work in the U.S.
+* Hybrid role based in Mountain View, CA.",,,,,,,,
+15,li-4062972783,linkedin,https://www.linkedin.com/jobs/view/4062972783,https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KDp00000E2K2UMAV_1006&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F572429542041302%2F%3Frx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D126320%26rx_job%3Da1KDp00000E2K2UMAV_1006%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_ts%3D20241216T121202Z%26rx_vp%3Dslots%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3DLIpaid&urlHash=D49K,"Data Scientist, Product Analytics",Meta,,2024-12-15,fulltime,,,,,,,not applicable,Engineering and Information Technology,,-ext@fb.com,"As a Data Scientist at Meta, you will shape the future of people\-facing and business\-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Oculus). By applying your technical skills, analytical mindset, and product intuition to one of the richest data sets in the world, you will help define the experiences we build for billions of people and hundreds of millions of businesses around the world. You will collaborate on a wide array of product and business problems with a diverse set of cross\-functional partners across Product, Engineering, Research, Data Engineering, Marketing, Sales, Finance and others. You will use data and analysis to identify and solve product development's biggest challenges. You will influence product strategy and investment decisions with data, be focused on impact, and collaborate with other teams. By joining Meta, you will become part of a world\-class analytics community dedicated to skill development and career growth in analytics and beyond.Product leadership: You will use data to shape product development, quantify new opportunities, identify upcoming challenges, and ensure the products we build bring value to people, businesses, and Meta. You will help your partner teams prioritize what to build, set goals, and understand their product's ecosystem.Analytics: You will guide teams using data and insights. You will focus on developing hypotheses and employ a diverse toolkit of rigorous analytical approaches, different methodologies, frameworks, and technical approaches to test them.Communication and influence: You won't simply present data, but tell data\-driven stories. You will convince and influence your partners using clear insights and recommendations. You will build credibility through structure and clarity, and be a trusted strategic partner.
+   
+
+  
+
+ Data Scientist, Product Analytics Responsibilities:
+   
+
+  
+
+* Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approaches
+* Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businesses
+* Identify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trends
+* Define, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendations
+* Partner with Product, Engineering, and cross\-functional teams to inform, influence, support, and execute product strategy and investment decisions
+
+
+ Minimum Qualifications:
+   
+
+  
+
+* Bachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent
+* 2\+ years of work experience in analytics and data querying languages (e.g. SQL), scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R)
+* 2\+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors \& long\-term product trends, and leading data\-driven projects from definition to execution \[including defining metrics, experiment, design, communicating actionable insights]
+
+
+ Preferred Qualifications:
+   
+
+  
+
+* Master's or Ph.D. Degree in a quantitative field
+
+
+ About Meta:
+   
+
+  
+
+ Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+   
+
+  
+
+ Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E\-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+   
+
+  
+
+ Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations\-ext@fb.com.
+   
+
+  
+
+ $114,000/year to $171,000/year \+ bonus \+ equity \+ benefits
+   
+
+  
+
+ Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.","Technology, Information and Internet",https://www.linkedin.com/company/meta,https://media.licdn.com/dms/image/v2/C4E0BAQFdNatYGiBelg/company-logo_100_100/company-logo_100_100/0/1636138754252/facebook_logo?e=2147483647&v=beta&t=yQdLB8_bCnLl5CaiAOcOMFm39fvGboZVNBYTqgRVKWg,,,,,
+16,li-4100714552,linkedin,https://www.linkedin.com/jobs/view/4100714552,,Data Scientist,Fractal,"Redwood City, CA",2024-12-14,fulltime,,,,,,,mid-senior level,"Information Technology, Analyst, and Engineering",,,"Data Scientist
+ 
+
+
+
+ Fractal Analytics is a strategic AI partner to Fortune 500 companies with a vision to power every human decision in the enterprise. Fractal is building a world where individual choices, freedom, and diversity are the greatest assets. An ecosystem where human imagination is at the heart of every decision. Where no possibility is written off, only challenged to get better. We believe that a true Fractalite empowers imagination with intelligence. And that it will be such Fractalites that will continue to build the company for the next 100 years.
+ 
+
+
+
+
+
+
+
+
+ Please visit Fractal \| Intelligence for Imagination for more information about Fractal.
+ 
+
+
+
+
+
+
+
+
+**\*\*\*Please note that this role is specifically located in the San Francisco Bay Area and requires 100% onsite availability. If you are not local, we provide weekly travel or relocation.\*\*\*** 
+
+
+
+
+
+
+
+
+
+**Role Overview** 
+
+
+
+
+ As a Data Scientist specializing in Machine Learning at Fractal Analytics, you will play a pivotal role in shaping and driving our AI strategies. Your primary focus will be developing and implementing Machine Learning and statistical models that transform and elevate our client's business operations.
+ 
+
+
+
+
+
+
+
+**Your responsibilities include:** 
+
+
+
+
+ Collaborating with internal teams to understand complex business challenges and identify opportunities for AI\-driven solutions.
+ 
+
+
+
+ Designing, developing, evaluating, and deploying Machine Learning algorithms that turn data into actionable insights.
+ 
+
+
+
+ Continuously research and stay abreast of the latest advancements in machine learning and AI to apply cutting\-edge techniques in our solutions.
+ 
+
+
+
+ Proactively working with large datasets, ensuring the integrity and effectiveness of data used in Machine Learning models.
+ 
+
+
+
+ Engaging with clients to translate business needs into technical requirements and Machine Learning solutions.
+ 
+
+
+
+ Leading initiatives to enhance our data analytics capabilities with a focus on predictive and prescriptive analytics through Machine Learning.
+ 
+
+
+
+
+
+
+
+**Qualifications:** 
+
+
+
+
+ Bachelor’s or master’s degree in computer science, Data Science, Statistics, Mathematics, or a related field with a strong emphasis on Machine Learning or Artificial Intelligence.
+ 
+
+
+
+**Proficiency in Machine Learning algorithms and concepts such as linear regression analysis, anomaly detection, time series and forecasting, probabilistic models, supervised and unsupervised learning, neural networks, deep learning, etc.** 
+
+
+
+
+ Experience with data modeling and evaluation strategies.
+ 
+
+
+
+ OPP knowledge and strong programming skills in Python, especially libraries used in data science like TensorFlow, PyTorch, Keras, Scikit\-learn, etc.
+ 
+
+
+
+ Knowledge of data preprocessing, cleaning, and analysis techniques.
+ 
+
+
+
+ Familiarity with big data technologies such as Hadoop, Spark, or similar platforms.
+ 
+
+
+
+ At least 3\-5 years of experience in a Machine Learning or data science role, with a proven track record of developing and deploying models that have driven business impact.
+ 
+
+
+
+ Experience working with large and complex datasets.
+ 
+
+
+
+ Prior exposure to cloud computing services like AWS, Azure, or Google Cloud Platform is advantageous.
+ 
+
+
+
+
+
+
+
+
+**Pay:** 
+
+
+
+
+ The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions, including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled.At Fractal, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case.A reasonable estimate of the current range is: 115,000 to 185,000\. In addition, you may be eligible for a discretionary bonus for the current performance period.
+ 
+
+
+
+
+
+
+
+**Benefits:** 
+
+
+
+
+ As a full\-time employee of the company or as an hourly employee working more than 30 hours per week, you will be eligible to participate in the health, dental, vision, life insurance, and disability plans in accordance with the plan documents, which may be amended from time to time. You will be eligible for benefits on the first day of employment with the Company. In addition, you are eligible to participate in the Company 401(k) Plan after 30 days of employment, in accordance with the applicable plan terms. The Company provides for 11 paid holidays and 12 weeks of Parental Leave. We also follow a “free time” PTO policy, allowing you the flexibility to take the time needed for either sick time or vacation.
+ 
+
+
+
+
+
+
+
+*Fractal provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.*",Business Consulting and Services,https://www.linkedin.com/company/fractal-analytics,https://media.licdn.com/dms/image/v2/D4D0BAQGiL7IwVio9Aw/company-logo_100_100/company-logo_100_100/0/1720694426455/fractal_analytics_logo?e=2147483647&v=beta&t=rD2ZJ6YuZPGq_VjuHEBQCbFDZkdD8sPcPT7RsGRS0K0,,,,,
+17,li-4099172206,linkedin,https://www.linkedin.com/jobs/view/4099172206,https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KDp00000E2K2UMAV_1008&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F572429542041302%2F%3Frx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D126320%26rx_job%3Da1KDp00000E2K2UMAV_1008%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_ts%3D20241216T121202Z%26rx_vp%3Dslots%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3DLIpaid&urlHash=2ZYz,"Data Scientist, Product Analytics",Meta,"San Francisco, CA",2024-12-14,fulltime,,,,,,,not applicable,Engineering and Information Technology,,-ext@fb.com,"As a Data Scientist at Meta, you will shape the future of people\-facing and business\-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Oculus). By applying your technical skills, analytical mindset, and product intuition to one of the richest data sets in the world, you will help define the experiences we build for billions of people and hundreds of millions of businesses around the world. You will collaborate on a wide array of product and business problems with a diverse set of cross\-functional partners across Product, Engineering, Research, Data Engineering, Marketing, Sales, Finance and others. You will use data and analysis to identify and solve product development's biggest challenges. You will influence product strategy and investment decisions with data, be focused on impact, and collaborate with other teams. By joining Meta, you will become part of a world\-class analytics community dedicated to skill development and career growth in analytics and beyond.Product leadership: You will use data to shape product development, quantify new opportunities, identify upcoming challenges, and ensure the products we build bring value to people, businesses, and Meta. You will help your partner teams prioritize what to build, set goals, and understand their product's ecosystem.Analytics: You will guide teams using data and insights. You will focus on developing hypotheses and employ a diverse toolkit of rigorous analytical approaches, different methodologies, frameworks, and technical approaches to test them.Communication and influence: You won't simply present data, but tell data\-driven stories. You will convince and influence your partners using clear insights and recommendations. You will build credibility through structure and clarity, and be a trusted strategic partner.
+   
+
+  
+
+ Data Scientist, Product Analytics Responsibilities:
+   
+
+  
+
+* Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approaches
+* Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businesses
+* Identify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trends
+* Define, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendations
+* Partner with Product, Engineering, and cross\-functional teams to inform, influence, support, and execute product strategy and investment decisions
+
+
+ Minimum Qualifications:
+   
+
+  
+
+* Bachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent
+* 2\+ years of work experience in analytics and data querying languages (e.g. SQL), scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R)
+* 2\+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors \& long\-term product trends, and leading data\-driven projects from definition to execution \[including defining metrics, experiment, design, communicating actionable insights]
+
+
+ Preferred Qualifications:
+   
+
+  
+
+* Master's or Ph.D. Degree in a quantitative field
+
+
+ About Meta:
+   
+
+  
+
+ Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+   
+
+  
+
+ Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E\-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+   
+
+  
+
+ Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations\-ext@fb.com.
+   
+
+  
+
+ $114,000/year to $171,000/year \+ bonus \+ equity \+ benefits
+   
+
+  
+
+ Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.","Technology, Information and Internet",https://www.linkedin.com/company/meta,https://media.licdn.com/dms/image/v2/C4E0BAQFdNatYGiBelg/company-logo_100_100/company-logo_100_100/0/1636138754252/facebook_logo?e=2147483647&v=beta&t=yQdLB8_bCnLl5CaiAOcOMFm39fvGboZVNBYTqgRVKWg,,,,,
+18,li-4074604552,linkedin,https://www.linkedin.com/jobs/view/4074604552,https://jobs.totalenergies.com/fr_FR/careers/JobDetail/Data-Scientist/59418?src=LinkedIn&urlHash=I9lY,Data Scientist,TotalEnergies,"Houston, TX",,fulltime,,,,,,,mid-senior level,Engineering and Information Technology,,,"****Contexte et environnement****
+ TotalEnergies Gas and Power is the trading arm of TotalEnergies in the field of low carbon energies (mainly gas, LNG and power). As such it operates in fast\-evolving market dynamics influenced by internal and external factors that require constant adaptation and evolution. Uncertainties specific to the trading environment (volatility of prices, supply \& demand mismatches) are coupled with those coming from the broader energy sector (climate change policies, changes in the energy mix, developments of new energy sources, etc). In such context Trading helps to ensure growth and profitability to a key segment of the business in order to reach the objective of Carbon Neutrality by 2050\.
+   
+
+  
+
+**PURPOSES**
+* Enhance TGPNA’s ability to leverage data in order to model and optimise power assets/portfolios/strategies and help generate additional value for the Company by driving the right trading decisions.
+* Reply promptly and reactively to business needs and requests from traders (predominantly power) and management.
+* Supply guidelines and support to the teams on any topics involving analysis and modelling of large data sets.
+
+
+****Activités****
+ Your missions as a Data Scientist include:
+   
+
+  
+
+* Contribute primarily to our in\-house suite of short and mid\-term power price forecasting models (fundamental/stack optimization, machine learning) and to other models developed and maintained by the team
+* Develop analytics and impactful visualization around these models to drive trading idea generation.
+* Mine data and build data pipelines feeding into the models.
+* Contribute to the development and maintenance of statistical and quantitative models.
+* Develop scripts to enable automation and process optimization.
+* Work with Power trading desks and other stakeholders throughout the organization to identify, prioritise and structure complex and unique problems where advanced analytics projects or tools can have the biggest impact.
+* Lead projects with hands\-on analysis and modelling to choose the right tool and right level of complexity to reach business objectives.
+* Ensure technology and methodology watch. Conduct extensive investigation to conceive new methods, procedures, and policies.
+* Collaborate with IT and data engineering teams to productionize models.
+
+
+**DIMENSIONS**
+ The Quantitative and Trading Analysis (Q\&TA) team aims at providing a better understanding of the markets traded by TotalEnergies Gas and Power North America (TGPNA) in terms of prices and fundamentals, finding ways to model and forecast their dynamics and dealing with complex issues requiring a quantitative approach (pricing, hedging and simulations of complex products, transactions, or assets). The Q\&TA team is formed of market fundamentals experts, data scientists, meteorologists, and quantitative researchers.
+   
+
+  
+
+****Profil du candidat****
+ You are someone who possesses the following experience and credentials:
+   
+
+  
+
+* Master’s degree in a mathematics subject
+* Minimum of 5 years in a quantitative role, preferably on a trading floor
+* Experience with data architecture and cloud environments, particularly AWS.
+* Strong Python coding skills (Object\-Oriented Programming) with data science libraries.
+* Knowledge of SQL Server, MongoDB, and familiarity with machine learning and optimization technics.
+* Familiarity with US electricity markets (ERCOT, PJM, CAISO) or other financial markets.
+* Experience with power data, modeling, and forecasting.
+* Ability to explain and present complex issues clearly.
+* Experience with transaction data is a plus.
+* Autonomous, innovative, organized, and able to thrive in fast paced, deadline\-driven environments.
+* Fluent in English, knowledge of French is advantageous
+
+
+****Informations supplémentaires****
+**TotalEnergies valorise la diversité, promeut le développement individuel et offre des opportunités d'emploi égales à tous les candidats.**",Oil and Gas,https://fr.linkedin.com/company/totalenergies,https://media.licdn.com/dms/image/v2/C4D0BAQGfwFj7jhhQJg/company-logo_100_100/company-logo_100_100/0/1630529979109/totalenergies_logo?e=2147483647&v=beta&t=i5JO4SHN-1X6Cq9d0csqaCRqLo3oF81TOH8goFSDfCg,,,,,
+19,li-4102036166,linkedin,https://www.linkedin.com/jobs/view/4102036166,,Data Scientist,RICEFW Technologies Inc,"South San Francisco, CA",,contract,,,,,,,mid-senior level,Information Technology and Engineering,,,"**Data Science Expert** 
+
+
+
+
+**Location: South SFO, CA (Hybrid role – 3 days/week onsite)** 
+
+
+
+
+**Required Experience Level: 12 – 18 years** 
+
+
+
+
+
+
+
+
+**Job description** 
+
+
+
+
+ Overall\- looking for a Data Science expert, who has a data science background and is driven by open source.
+ 
+
+
+
+  
+
+
+
+
+
+**A brief description of the project:** 
+
+
+
+
+ The expertise in cloud\-based data science platform management, ideally AWS Sagemaker (AWS certifications, Sagemaker, cloud Architecture, etc, and data science are a plus).
+ 
+
+
+
+ Can showcase strong coding experience (e.g. Python, SQL, Spark).
+ 
+
+
+
+  
+
+
+
+
+
+**The skills required of the person –** 
+
+
+
+
+ Track record of working with internal/augmented delivery teams.
+ 
+
+
+
+ Experience with Agile methodology (ideally less). and DevOps delivery concepts.
+ 
+
+
+
+ Strong experience in data scientist stakeholder management.
+ 
+
+
+
+ Demonstrated ability to enable the delivery of visualization and analytics for business outcomes and an extensive knowledge of the tools available on the market.
+ 
+
+
+
+ Awareness of current best practices in the data science domain open source and AWS
+ 
+
+
+
+ Ability to gather the right people to solve problems from anywhere within and outside the organization.
+ 
+
+
+
+ Ability to transform data science requirements into expected platform outcomes","Information Technology & Services, Software Development, and Biotechnology Research",https://www.linkedin.com/company/ricefw,https://media.licdn.com/dms/image/v2/C4E0BAQHsNPba0KkgrQ/company-logo_100_100/company-logo_100_100/0/1644512343553/ricefw_technologies_inc_logo?e=2147483647&v=beta&t=bKjTGZXRX00kMQS3TNCeSQSEzGBCgys7xg1y6kabqZg,,,,,
+20,zr-vFJS66hPofhPIJmCvUZ9IA,zip_recruiter,https://www.ziprecruiter.com/jobs//j?lvk=vFJS66hPofhPIJmCvUZ9IA,,Lead Data Scientist - Healthcare Claims Data,Tiger Analytics,"Chicago, IL, USA",2024-12-14,,,,,,,,,,organic,,"Tiger Analytics is pioneering what AI and analytics can do to solve some of the toughest problems faced by organizations globally. We develop bespoke solutions powered by data and technology for several Fortune 100 companies. We have offices in multiple cities across the US, UK, India, and Singapore, and a substantial remote global workforce.
+ 
+
+
+
+ We are also market leaders in AI and analytics consulting in the CPG \& retail industry with over 40% of our revenues coming from the sector. This is our fastest\-growing sector, and we are beefing up our talent in the space.
+ 
+
+
+
+ We are seeking an experienced Lead Data Scientist. In this role, you will drive the development and execution of product strategies that enhance Healthcare claims data initiative. The ideal candidate will have a strong background in Healthcare with a focus on analytics\-driven decision\-making, as well as proven experience in roadmap planning and cross\-functional team leadership.
+ 
+
+
+
+
+
+
+
+**Key Responsibilities:** 
+  
+
+
+
+
+* Work on the latest applications of data science to solve business problems in the Healthcare domain
+* Effectively communicate the analytics approach and how it will meet and address objectives to business partners.
+* **Quarterly Planning** 
+ : Design and implement quarterly plans, ensuring alignment with product goals, KPIs, and timelines.
+* **Team Leadership** 
+ : Lead and mentor a cross\-functional team of 5\-6 members, fostering a collaborative and high\-performance environment.
+* **Stakeholder Collaboration:** 
+ Work closely with internal teams, including Marketing, Sales, Engineering, and Analytics, to gather requirements and translate them into actionable plans.
+* Collaborate, coach, and learn with a growing team of experienced Data Scientists.
+* Stay connected with external sources of ideas through conferences and community engagements.
+
+
+
+**Requirements** 
+
+
+
+* 8\+ years of Data Science experience, and 5\+ years of experience in product management, with a focus on healthcare claims data.
+* Graduate Degree in Data Science, Computer Science, or a related field is required
+* Proven experience managing a team and leading product initiatives.
+* Analytical Mindset: Strong data analysis skills.
+* Exceptional communication and collaboration skills to understand business partner needs and deliver solutions.
+* Bias for action, with the ability to deliver outstanding results through task prioritization and time management.
+* Be proactive, curious, can\-do attitude, flexible personality
+
+
+
+**Benefits** 
+
+
+
+
+ This position offers an excellent opportunity for significant career development in a fast\-growing and challenging entrepreneurial environment with a high degree of individual responsibility.",,,,,,,,

@@ -1,0 +1,2039 @@
+,id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+0,gd-1009567833310,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009567833310,,"Senior Software Engineer, Infrastructure",Scott’s Cheap Flights,,2024-12-16,,direct_data,yearly,165000.0,165000.0,USD,True,,,organic,careers@going.com,"**About the Role**
+------------------
+
+
+At Going, our mission is to help people travel and experience the world, while becoming the foremost travel app in everyone's pocket. As a bootstrapped and profitable travel\-tech company with over 2\.5M subscribers, we are scaling our infrastructure to support a data\-driven product experience and ensure a seamless platform for our members.
+
+
+We’re hiring a **Senior Infrastructure Engineer** to lead the design, implementation, and optimization of our SaaS infrastructure. In this role, you will partner across engineering and product teams to create scalable, secure, and reliable systems that meet the demands of a growing customer base. You’ll balance hands\-on technical work with strategic decision\-making, fostering a culture of automation, collaboration, and operational excellence.
+
+
+This role will report to the VP of Engineering.
+
+*We will prioritize applications received by December 31 to ensure timely review and response. While applications may remain open after this date, those submitted later may experience a slower review process.*
+
+**Key Accountabilities**
+------------------------
+
+* Oversee the migration of key services to modern cloud\-native infrastructure using best practices for scalability and performance.
+* Enhance CI/CD pipelines to streamline development workflows and reduce time\-to\-production.
+* Implement robust monitoring, logging, and alerting systems to improve reliability and visibility into system performance.
+* Audit the current infrastructure to identify risks, inefficiencies, and opportunities for improvement.
+* Own the technical vision for DevOps and infrastructure, driving long\-term improvements in automation, scalability, and security.
+* Lead incident response and postmortem processes, ensuring the team is proactive in preventing future outages.
+* Act as a mentor to and experience dependent, manage a junior engineer, sharing best practices and fostering a culture of continuous improvement.
+* Build and maintain infrastructure as code (IaC) to ensure consistency and repeatability of deployments.
+* Collaborate with product, data, and engineering teams to align infrastructure with evolving business needs.
+
+**What you know**
+-----------------
+
+**Required:**
+
+* 6\+ years of professional experience in DevOps, Infrastructure Engineering, or Site Reliability Engineering, including 2\+ years in a leadership role.
+* Expertise in cloud platforms such as AWS, GCP, or Azure, with a focus on designing and managing scalable infrastructure.
+* Hands\-on experience with infrastructure as code tools (e.g., Terraform, CloudFormation).
+* Strong background in containerization and orchestration technologies (e.g., Docker, Kubernetes).
+* Proven track record of building and optimizing CI/CD pipelines for efficient and secure deployments.
+* Experience with monitoring and logging tools (e.g., Prometheus, Grafana, ELK stack).
+* Familiarity with security best practices, including identity management, network security, and data protection.
+* Excellent communication skills and the ability to collaborate with cross\-functional teams.
+
+
+‍
+
+**Preferred:** ‍
+
+* Certifications in cloud platforms (e.g., AWS Solutions Architect, Kubernetes Certified Administrator).
+* Experience with incident management and building high\-availability systems.
+* Knowledge of performance optimization and cost management in cloud environments.
+* Expertise in scripting and automation (e.g., Python, Bash, Go).
+* Familiarity with supporting data and machine learning platforms.
+* Experience working in subscription\-based business models or with large\-scale consumer applications.
+
+
+‍
+
+**Benefits \& Perks you'll love...**
+------------------------------------
+
+* The salary for this role is $165,000 \+ equity
+* 100% remote work environment
+* Annual team retreats, with past destinations including Washington D.C., Vancouver, Punta Cana, and Mexico City.
+* Open vacation policy, with a 15\-day minimum
+* Comprehensive health, vision, dental, and life insurance
+* 401(k) with a 5% match
+* $750/quarter remote work, wellness, and wisdom stipend
+* Up to 12 weeks of paid family leave
+* Meetup stipend when you cross paths with a co\-worker
+* Continuing education \& development reimbursement
+* Challenging problems to solve and an awesome team to collaborate with every single day
+
+*We want you to bring your authentic self to work every single day. We accept you for who you are and consider everyone on an equal opportunity basis without regard to ancestry; age; appearance; color; gender identity and/or expression; genetics; family or parental status; marital, civil union, or domestic partnership status; mental, physical, or sensory disability; national, social or ethnic origin; past or present military service; sexual orientation; socioeconomic status; race; religion or belief; hair length; organ donor status. Going is an E\-Verify employer.*
+
+*‍If you require a reasonable accommodation or assistance for any part of the interview and employment process, please contact us at* *careers@going.com* *and let us know the nature of your request.*",,https://www.glassdoor.com/Overview/W-EI_IE2019399.htm,https://media.glassdoor.com/sql/2019399/scott-s-cheap-flights-squareLogo-1673449028101.png,,,,,
+1,gd-1009567818319,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009567818319,,"Senior Software Engineer, Compiler",Category Labs,,2024-12-16,,direct_data,yearly,250000.0,250000.0,USD,True,,,organic,,"Category Labs (formerly known as Monad Labs) is a team of systems engineers and researchers on a mission to design and build at the frontier of decentralized technology. We strive to design and build step\-function improvements over existing blockchain solutions. After recently raising $225M in series A funding, led by Paradigm, we are growing our team.
+
+  
+
+
+### **The Role**
+
+
+
+We are looking for an exceptional compiler engineer to work on challenging greenfield projects that accelerate bytecode execution. For example, you will you will work on a bytecode execution graph builder which will enable speculative pre\-pre\-execution of potential of potential control flow paths. Your work will require intensive research and engineering and will help accelerate a platform securing billions of dollars in value. You will report to the CTO. Experience with crypto is not expected.
+
+
+### **What You Will Do**
+
+
+* Work on greenfield performance\-oriented projects in a fast\-moving startup environment
+* Research ideas for accelerating EVM bytecode execution
+* Design and implement performant production systems
+
+### **Who You Are**
+
+
+* Proven track record in compiler design and system architecture
+* Strong background in software engineering principles principles
+* Experience with industry\-standard compiler technologies
+* Good understanding of testing and benchmarking
+* Industry and/or academic experience working on compilers for parallel architectures
+* Strong C\+\+ programming skills
+* Knowledge of type theory is a plus
+
+### **Additional Information**
+
+
+
+Target full\-time salary of $250,000\. (\*\*This is not a guarantee of compensation or salary; a final offer amount may vary based on factors including but not limited to experience and geographic location.)
+
+### **Why Work with Us**
+
+
+* **Challenging problems.** You'll work on extremely challenging problems with massive impact.
+* **Huge opportunity.** The Ethereum Virtual Machine (EVM) standard is ubiquitous, but existing EVM\-compatible chains are very slow. Monad's core innovations offer developers the best of both worlds (portability and performance) and are a game\-changer for mass user adoption in crypto.
+* **The right team.** You'll be part of an exceptional team.
+* **Culture**. We're a lean team working together to achieve very ambitious goals. We are united in our culture of collaboration, low egos, and high\-quality outputs. As an early member of our team, you'll help continue to shape our culture.
+* **Compensation**. You'll receive a competitive salary and equity package.
+* **Resources and growth.** We're well\-capitalized, with backing from leading venture funds like Paradigm, Electric Capital, Greenoaks, Dragonfly, and Coinbase Ventures. We keep a lean team, and this is a rare opportunity to join. You'll learn a lot and grow as our company scales.
+
+### **Benefits**
+
+
+
+Company benefits for US\-based full\-time employees include medical, dental, and vision insurance (100% coverage for employees); unlimited and encouraged paid time off; monthly mental health and fitness stipend; paid parental leave; and 10 company\-observed holidays.",,https://www.glassdoor.com/Overview/W-EI_IE1634095.htm,,,,,,
+2,gd-1009567812905,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009567812905,,Site Reliability Engineer - Remote -,Akamai,,2024-12-16,,direct_data,yearly,68900.0,143100.0,USD,True,,,organic,,"**Are you excited by the opportunity to monitor and produce internet solutions?**
+
+
+**Would being free to innovate Would being free to innovate excite you?**
+
+
+**Join our highly skilled security**
+
+
+
+Our Team develops and sells Akamai's carrier network security products to fixed and mobile network service providers. We specialize in delivering highly scalable network infrastructure and access\-based security products to our customers. We collaborate to enable our customers to provide high\-quality, secure internet and network access to their end\-users.
+
+
+**Partner with the best**
+
+
+
+As a Site Reliability Engineer you will be working with python code bases involving complex threat detection algorithms in an ultra\-high traffic environment. You would be reading complex code and troubleshooting it and providing solutions. Our team is instrumental in maintaining network stability by improving monitoring processes and developing tools.
+
+
+
+As a Site Reliability Engineer, you will be responsible for:
+
+
+* Troubleshooting complex production issues in a distributed environment
+* Performing system programming/automation to solve complex issues
+* Defining database requirements as part of the product lifecycle to influence the new designs and standards
+* Participating in on\-call rotations, guiding restoration and repair of service\-impacting issues
+* Working with Dev and Quality Assurance teams to create more robust solutions, code improvement and stability
+
+
+**Do what you love**
+
+
+
+To be successful in this role you will:
+
+
+* Have 1\+ years of relevant experience and a Bachelor's degree in related technical field.
+* Have proven experience as a systems performance/ site reliability or Devops engineer
+* Develop software using Python or any scripti Develop software using Python or any scripting programming language
+* Have experience working with NoSQL databases such as Cassandra or Redis
+* Have experience with orchestration tools eg Chef or Ansible
+
+
+**Work in a way that works for you**
+
+
+
+FlexBase, Akamai's Global Flexible Working Program, is based on the principles that are helping us create the best workplace in the world. When our colleagues said that flexible working was important to them, we listened. We also know flexible working is important to many of the incredible people considering joining Akamai. FlexBase, gives 95% of employees the choice to work from their home, their office, or both (in the country advertised). This permanent workplace flexibility program is consistent and fair globally, to help us find incredible talent, virtually anywhere. We are happy to discuss working options for this role and encourage you to speak with your recruiter in more detail when you apply.
+  
+
+  
+
+Learn what makes Akamai a great place to work
+
+
+
+Connect with us on social and see what life at Akamai is like!
+
+  
+
+**We power and protect life online, by solving the toughest challenges, together.**
+
+
+
+At Akamai, we're curious, innovative, collaborative and tenacious. We celebrate diversity of thought and we hold an unwavering belief that we can make a meaningful difference. Our teams use their global perspectives to put customers at the forefront of everything they do, so if you are people\-centric, you'll thrive here.
+
+
+**Working for you**
+
+
+
+At Akamai, we will provide you with opportunities to grow, flourish, and achieve great things. Our benefit options are designed to meet your individual needs for today and in the future. We provide benefits surrounding all aspects of your life:
+
+
+* Your health
+* Your finances
+* Your family
+* Your time at work
+* Your time pursuing other endeavors
+
+
+Our benefit plan options are designed to meet your individual needs and budget, both today and in the future.
+
+
+**About us**
+
+
+
+Akamai powers and protects life online. Leading companies worldwide choose Akamai to build, deliver, and secure their digital experiences helping billions of people live, work, and play every day. With the world's most distributed compute platform from cloud to edge we make it easy for customers to develop and run applications, while we keep experiences closer to users and threats farther away.
+
+
+**Join us**
+
+
+
+Are you seeking an opportunity to make a real difference in a company with a global reach and exciting services and clients? Come join us and grow with a team of people who will energize and inspire you!  
+
+  
+
+Akamai Technologies is an Affirmative Action, Equal Opportunity Employer that values the strength that diversity brings to the workplace. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of gender, gender identity, sexual orientation, race/ethnicity, protected veteran status, disability, or other protected group status.  
+
+  
+
+\#LI\-Remote
+
+
+**Compensation**
+
+
+
+Akamai is committed to fair and equitable compensation practices. The base salary for this position ranges from $68,900 \- $143,100/year; a candidate’s salary is determined by various factors including, but not limited to, relevant work experience, skills, certifications and location. The compensation package may also include incentive compensation opportunities in the form of annual bonus or incentives, equity awards and an Employee Stock Purchase Plan (ESPP). Akamai provides industry\-leading benefits including healthcare, 401K savings plan, company holidays, vacation (in the form of PTO), sick time, family friendly benefits including parental leave and an employee assistance program including a focus on mental and financial wellness; Eligibility requirements apply.",,https://www.glassdoor.com/Overview/W-EI_IE9219.htm,https://media.glassdoor.com/sql/9219/akamai-squarelogo-1483634220096.png,,,,,
+3,gd-1009567830208,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009567830208,,Software Quality Assurance Engineer (Remote),"Pinnacle Software Consulting, Inc.",United States,2024-12-16,,,,,,,False,,,organic,,"**Responsibilities**
+
+* Functions as an individual contributor and works under moderate supervision with clearly defined guidelines and direction.
+* Follows general guidelines established in the test plan and may receive day\-to\-day instruction and assignments from leadership
+* Develops, modifies documents, and executes test cases from approved project requirements and design
+* Performs Software Quality Assurance (including but not limited to graphical user interface (GUI), back\-end, interface, batch, regression, automation execution, performance Software Quality Assurance) and records results following established project standards for Software Quality Assurance, defect management, and test deliverables
+* Assists with providing defect root cause analysis and assists in verifying defect fixes
+* Assists Senior Software Quality Assurance Engineer in creating test data to support planned tests
+* Updates the Requirements Traceability Matrix
+* Interacts with other functional teams
+* Provides Software Quality Assurance status updates to leadership
+* Provides input to test planning activities
+* Creates and provides input into test plans and other test documentation
+* Identifies and escalates risks and issues
+
+**General**
+
+* Demonstrates knowledge of Software Quality Assurance methodologies, best practices, and procedures; and applies them to projects to ensure that test objectives are achieved
+* Continues to build experience toward achieving moderate business knowledge in one or more domains
+* Adheres to CMMI standards and processes
+
+**Customer**
+
+* Possesses unwavering commitment to customer service and operational excellence
+* Provides customer support
+* Keeps abreast of new technology and market developments
+
+**Required Experience/Skills:**
+
+* Bachelor’s Degree, preferably in Computer Science, Information Systems, or a closely related field
+* 2\+ years of Software Quality Assurance experience
+* Understanding of SharePoint applications, WebEx, Skype, etc.
+* Knowledge of Microsoft Word, Excel, and Visio, with a working knowledge of the rest of the Microsoft Office suite of applications
+* Knowledge of defect management tools (e.g., Jira)
+* Knowledge of Unix commands
+* Knowledge of database tools (e.g., Oracle, SQL Server, TOAD)
+* Domain knowledge of Medicare, Medicaid, or healthcare verticals
+* Ability to work well in teams
+* Highly organized with analytical skills and attention to detail
+* Ability to adapt to task and project changes
+* Ability to handle multiple projects with varying priorities
+* Strong verbal and written communication skills
+* Experience testing multi\-tiered applications or transaction processing systems
+
+**Preferred Experience/Skills:**
+
+* Experience with Software Development Life Cycle (SDLC) and Software Quality Assurance Life Cycle (STLC)
+* Experience in the healthcare industry
+* Basic knowledge of Selenium Software Quality Assurance
+
+Job Types: Full\-time, Contract
+
+Compensation Package:
+
+* 1099 contract
+
+Schedule:
+
+* 8 hour shift
+
+Education:
+
+* Bachelor's (Required)
+
+Experience:
+
+* SDLC: 5 years (Required)
+* SQL: 5 years (Required)
+* Selenium Software Quality Assurance: 5 years (Required)
+* Test automation: 5 years (Required)
+
+Work Location: Remote",,https://www.glassdoor.com/Overview/W-EI_IE2300961.htm,https://media.glassdoor.com/sql/2300961/pinnacle-software-consulting-squarelogo-1641458684805.png,,,,,
+4,gd-1007136916667,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1007136916667,,Full Stack Developer,eVideon Health,"Grand Rapids, MI",2024-12-14,,direct_data,yearly,100000.0,100000.0,USD,False,,,sponsored,,"Full Stack Developer
+
+eVideon Healthcare is seeking talented software developers with full stack experience building multi\-platform web applications. As an eVideon Software Engineer you are free to work at home and at our new headquarters on Wealthy Street alongside an experienced and agile team of developers and support staff dedicated to helping healthcare organizations create an outstanding experience for patients in hospital and at home. This position requires a passion for creative problem\-solving, an ability to balance teamwork with autonomy, and a willingness to contribute to all aspects of software design, including browser and mobile user interfaces, server\-side business logic, database access, and cloud delivery.
+
+Oh, and all our employees get stock options in our fast growing company. You will too :)
+
+How you will contribute:
+
+* Develop cloud\-based applications with microservice architectures
+* Migrate Java enterprise applications to a muli\-tenant cloud architecture
+* Apply software modeling of business domains to application development
+* Design REST\-style API services that integrate with front\-end user interfaces
+
+Preferred Experience:
+
+* Developed multi\-platform applications on browsers, phones, tablets, and smart TVs
+* Applied microservices architecture (asynchronous messaging, service discovery, API gateway, etc.)
+* Worked with healthcare messaging standards and protocols (HL7 experience is a plus)
+* Worked with video streaming software, protocols, and technologies
+
+Preferred Technologies:
+
+* Enterprise Java, Spring, JavaScript tools and frameworks (Angular, React, Node.js), cloud\-based architectures (we use AWS), mobile development (IOS, Android), Git, Jenkins
+
+Critical Competencies:
+
+* Familiarity with Spring / Spring Boot
+* Fluency with JavaScript, HTML5, CSS3
+* Fluency in SQL and relational database design as well as NoSQL databases
+* Ability to clearly communicate and document software concepts, designs, and features
+* Knowledge of Agile and test\-driven development tools and practices
+* Strong understanding of software design principles and patterns
+* Work collaboratively with managers, engineers, and developers in an agile team environment
+* Evolve application design through continuous and iterative development
+* Refactor and enhance existing applications to improve performance and maintainability
+
+Job Type: Full\-time
+
+Pay: From $100,000\.00 per year
+
+Benefits:
+
+* 401(k)
+* Dental insurance
+* Employee assistance program
+* Flexible schedule
+* Flexible spending account
+* Health insurance
+* Health savings account
+* Paid time off
+* Vision insurance
+
+Schedule:
+
+* Monday to Friday
+
+Ability to commute/relocate:
+
+* Grand Rapids, MI 49506: Reliably commute or planning to relocate before starting work (Required)
+
+Education:
+
+* Bachelor's (Preferred)
+
+Work Location: Hybrid remote in Grand Rapids, MI 49506",,,,,,,,
+5,go-LPag9wnJXu2r9dY5AAAAAA==,google,"https://www.ziprecruiter.com/c/Modern-Treasury/Job/Software-Engineer-Payments/-in-New-York,NY?jid=7a2e7f0c82964572&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,Software Engineer - Payments,Modern Treasury,"New York, NY",2024-12-14,,,,,,,True,,,,,"OVERVIEW
+
+This position can be based out of San Francisco, New York, or remote (we accept candidates from many states).
+
+We're looking for Software Engineers to join our Payments Core organization to lead growth and adoption of global and domestic payment rails. You will lead the development of cutting-edge payment integration solutions. We support nearly 40 currencies in cross-border payments from the U.S. to 131 countries. Our goal is to expand into new markets and add support for local payment rails in EMEA, LATAM, and APAC. You'll be at the forefront of ensuring our payments platform is highly scalable, adaptable, and reliable.
+
+The core platform at Modern Treasury sits between our customers and their banks. In the same way that Twilio abstracted away the complexity of working with communication networks, we have built an easy-to-use, common interface into the banking system. Our customers use our products to do things like move money to or from their users, automate back-office work, and record their transaction ledgers. The companies that can use Modern Treasury move over $750 trillion a year via bank payments, as compared to only $2 trillion per year on card payments.
+
+In this role, you'll directly impact the evolution of our payments product. Your work will shape the future of instant payments, allowing businesses to move money faster and across borders. Experience working with international payment systems is a plus, but success in this role will require creativity and a willingness to learn the details of these payment systems beyond our borders.
+
+ABOUT MODERN TREASURY
+
+Modern Treasury is the operating system for money movement. Our payment operations platform combines a suite of APIs and dashboards to help companies unlock new payments revenue, strengthen customer experiences, and drive efficiency through their business. Our end-to-end platform moves enterprises forward with faster payments, efficient workflows, full data visibility, and seamless bank integrations.
+
+WEEK BY WEEK
+
+During your first week, you will:
+• Get to know our leadership, culture, and values
+• Onboard with the engineering team
+• Ship your first commit on day 1
+• Take on 1-2 small tickets to address bugs or make minor improvements
+• Read our favorite industry primers
+
+During your first six weeks you will:
+• Ship your first major project
+• Shadow a few customer and partner meetings every week
+
+During your first six months, you will:
+• Lead a project that improves performance and payment workflows across multiple payment rails.
+• Collaborate with our product team to scope and ship products for our enterprise users.
+• Participate in shaping our roadmap, particularly around scaling and refining payment rail workflows.
+• Help grow our team by mentoring new engineers, writing internal tooling and documentation, and interviewing new hires.
+
+WHAT YOU SHOULD HAVE
+• 5+ years of professional software engineering experience
+• Experience collaborating with product teams to design features and customer-centric workflows that meet customer needs.
+• Experience with U.S. domestic and/or global payment rails (ACH, Wires, Swift, RTP) and payments standards (ISO20022, NACHA, BAI)
+• Experience working with SQL/Relational databases. Experience with batched payments is a plus.
+• Experience mentoring and growing engineering, as well as contributing to technical direction
+• Creative problem-solving skills and a willingness to learn the nuances of both domestic and international payment systems.
+
+TECHNOLOGIES WE USE
+• Ruby on Rails for our backend framework
+• Postgres for our database
+• Redis for caching
+• AWS for infrastructure and hosting
+• Docker for containerization
+• GitHub for source code management
+• Buildkite for continuous integration
+
+Modern Treasury is committed to equal employment opportunity and does not discriminate in any employment opportunities or practices based on an individual's race, color, creed, gender (including gender identity and gender expression), religion (all aspects of religious beliefs, observance or practice, including religious dress or grooming practices), marital status, registered domestic partner status, age, national origin or ancestry (including language use restrictions and possession of a driver's license issued under California Vehicle Code section 12801.9), natural hair, physical or mental disability, political affiliation, medical condition (including cancer or a record or history of cancer, and genetic characteristics), sex (including pregnancy, childbirth, breastfeeding or related medical condition), genetic information, sexual orientation, military and veteran status or any other consideration made unlawful by federal, state, or local laws. It also prohibits unlawful discrimination based on the perception that anyone has any of those characteristics, or is associated with a person who has or is perceived as having any of those characteristics.
+
+Modern Treasury participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S.",,,,,,,,
+6,go-MPWvXFxUkW_iWVI5AAAAAA==,google,https://www.linkedin.com/jobs/view/appian-tech-lead-at-centraprise-4102024359?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,Appian Tech Lead,Centraprise,"Edison, NJ",2024-12-10,fulltime,,,,,,False,,,,,"Job Title: Appian Tech Lead
+
+Location: Edison-NJ, Tampa-FL, Irving, TX (Complete Onsite Role)
+
+Duration: Fulltime Employment (Permanent)
+
+Must Have:
+• Minimum 8 years of Appian BPM experience.
+• Good knowledge of the product including BPM Fundamentals, Architecture Components, Technical Features such as Designer Features, Configurations in Appian etc.
+• Should have hands on experience in design and development in Appian BPM including components such as Tempo, Mobility Features, Forums, Discussions, Pages, Smart Services, Reports, Deployment etc.
+• Should have good knowledge of Java, J2EE, Ajax, JavaScript, JS, XML, XSLT etc.
+• should have design/architecture experience building business workflow automation and business rules execution (a.k.a Rules Engine). Considerations are needed to determine and help in establishing some enterprise standards.
+
+Good-to-Have:
+• Appian Certifications if any.
+• Should have handled teams of size 5-7 and should be able to mentor the team.
+• Excellent analytical and communication skills.
+• Should have good knowledge of Appian Administration and servers such as JBOSS\WebSphere\WebLogic etc.",,,,,,,,
+7,go-SRh799Yt7bn514PQAAAAAA==,google,https://www.linkedin.com/jobs/view/java-c%23-engineer-hedge-fund-%24400k%2B-at-paragon-alpha-hedge-fund-talent-business-4063580063?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,Java/C# Engineer - Hedge Fund - $400k+,Paragon Alpha - Hedge Fund Talent Business,"New York, NY",2024-12-07,,,,,,,False,,,,,"Paragon's client are a Tier 1 Hedge Fund, who take a quant approach to investing, and look after $63 billion in assets.
+
+As part of their core team build out they are hiring a Senior Software Engineer to come in and build core systems used by the business from front office trading to pre/post trade systems. A focus on building world class, distributed systems that will stand the test of time.
+
+The team are also looking for ways to implement AI into their processes. Any experience here would be valuable.
+
+Tech: Java/C#, gRPC, Kafka, SQL, Flink, Python, Kubernetes
+
+We are looking for 3-10 years experience, excellent academics (STEM) and great stakeholder management.
+
+Please get in touch for further information.",,,,,,,,
+8,go--1DXbCzuaYzvKVDvAAAAAA==,google,https://www.linkedin.com/jobs/view/lead-software-engineer-at-mastercard-processing-s-a-4101124909?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,"Lead, Software Engineer",Mastercard Processing S.A.,"New York, NY",2024-12-06,,,,,,,False,,,,,"Our Purpose
+
+Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.
+
+Title And Summary
+
+Lead, Software Engineer
+
+Who is Mastercard?
+
+Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.
+
+Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.
+
+Overview
+
+We are looking for a Lead Software Development Engineer to drive our customer experience strategy forward by consistently innovating and problem-solving. The ideal candidate is passionate about the customer experience journey, highly motivated, intellectually curious, analytical, and possesses an entrepreneurial mindset.
+
+The Role
+• Work as a Service Architect to deliver end-to-end product development for Switching Solutions
+• Full Stack Development using Microservices, Messaging/Event Driven Frameworks, CICD on a Cloud Native environment (Pivotal Cloud Foundry)
+• Ensure benchmarks are met on quality, performance, info security and other NFRs
+• Guide and mentor teams effectively as per needs. Train developers on the technologies needed.
+• Communicate effectively and coordinate with various global groups in MasterCard to ensure success of the projects, including Business Owners, Product Owners, Enterprise Architecture teams, Other product teams etc.
+• Lead various initiatives for improving automation, defect metrics and overall quality. Conduct various Proofs-of-concept as per technological and business needs
+• Take responsibility for deciding the relevant tools, technologies and patterns that need to be implemented for the service
+
+All About You
+• A strong hands-on technologist with very strong Object-Oriented Design and clean programming skills using the Java language and the SOLID design principles aimed at creating re-usable, scalable components
+• Passionate about emerging technologies and trends, especially Event Driven Architecture and modern caching/persistence mechanisms
+• Strong experience in Product Development using Digital Native Architecture, Spring Boot framework and Cloud technology (preferably Pivotal Cloud Foundry) in an Agile (SAFe) Development Environment
+• Ability to analyze, conceptualize and create cutting edge technical solutions based on the business needs
+• Extensive experience in the development of online, real time application features
+• Result Oriented Professional
+• Strong communication and stakeholder management skills involving Business Owners, Architecture teams, Development/Test teams, Vendors etc. Ability to guide teams on technology.
+• Coordination and organization skills and the ability to work with multiple stakeholders and vendors across locations to ensure success of the project.
+• Strong understanding, inclination, and experience of working in an Agile (SaFe) environment
+
+Corporate Security Responsibility
+
+Every Person Working For, Or On Behalf Of, Mastercard Is Responsible For Information Security. All Activities Involving Access To Mastercard Assets, Information, And Networks Comes With An Inherent Risk To The Organization And Therefore, It Is Expected That The Successful Candidate For This Position Must:
+• Abide by Mastercard’s security policies and practices;
+• Ensure the confidentiality and integrity of the information being accessed;
+• Report any suspected information security violation or breach, and
+• Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.
+
+Corporate Security Responsibility
+
+All Activities Involving Access To Mastercard Assets, Information, And Networks Comes With An Inherent Risk To The Organization And, Therefore, It Is Expected That Every Person Working For, Or On Behalf Of, Mastercard Is Responsible For Information Security And Must:
+• Abide by Mastercard’s security policies and practices;
+• Ensure the confidentiality and integrity of the information being accessed;
+• Report any suspected information security violation or breach, and
+• Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.",,,,,,,,
+9,go-HJSZ3jAiKApyUryyAAAAAA==,google,https://www.linkedin.com/jobs/view/software-engineer-ii-hadoop-spark-with-python-sql-tableau-powerbi-at-mastercard-processing-s-a-4101119908?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,"Software Engineer II - Hadoop, Spark with Python, SQL, Tableau / PowerBI",Mastercard Processing S.A.,"New York, NY",2024-12-06,,,,,,,False,,,,,"Our Purpose
+
+Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.
+
+Title And Summary
+
+Software Engineer II - Hadoop, Spark with Python, SQL, Tableau / PowerBI
+
+Who is Mastercard?
+
+Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.
+
+Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.
+
+Job Summary
+
+We are seeking a detail-oriented and motivated Data Analyst to support our Workplace Intelligence Analytics team. As a Data Analyst, you will help with data collection, processing, analysis, and visualization to support business decision-making.
+
+Key Responsibilities
+• Assist in collecting, cleaning, and organizing data from various sources to ensure its accuracy and completeness.
+• Perform data analysis to identify trends, patterns, and insights that can inform business strategies.
+• Generate reports, dashboards, and visualizations to present key findings to stakeholders.
+• Support the design and implementation of data models and structures.
+• Collaborate with cross-functional teams to understand data requirements and provide insights for business decisions.
+• Assist in developing and maintaining documentation of data processes, methods, and results.
+• Contribute to improving data collection and analysis processes.
+
+Qualifications
+•   Bachelor's degree in Computer Science, Engineering, Data Science, or a related field.
+• Experience with database management systems or data visualization tools.
+• Basic understanding of statistical techniques and data mining.
+•   Proficiency in designing and implementing data tools, technologies, and processes.
+•   Expertise in data engineering, ETL/ELT processes, data warehousing, and data modeling.
+•   Strong command of data integration techniques and data quality management.
+•   Hands-on experience with data technologies such as Hadoop, Spark, Python, SQL, alteryx, Nifi, SSIS, etc.
+•   Familiarity with cloud platforms and services, such as AWS, GCP, or Azure.
+•   Excellent problem-solving skills and ability to provide innovative data solutions.
+•   Strong leadership skills with a proven track record of guiding and mentoring a team.
+
+All About You
+•   2-5 years of experience in Data Warehouse related projects
+•   Expertise in Data Engineering and Data Analysis: implementing multiple end-to-end DW projects in Big Data Hadoop environment
+•   Experience of building data pipelines through Spark with Scala/Python/Java on Hadoop or Object storage
+•   Experience of working with Databases like MS SQL Server, Oracle and have strong SQL knowledge
+•   Experience in BI tools like Tableau, PowerBI
+•   Experience of working on Alteryx, SSIS, NiFi added advantage
+•   Experience of working on automation in data flow process in a Big Data environment.
+•   Experience of working in Agile teams
+•   Strong analytical skills required for debugging production issues, providing root cause and implementing mitigation plan
+•   Strong communication skills - both verbal and written – and strong relationship, collaboration skills and organizational skills
+•   Ability to quickly learn and implement new technologies, and perform POC to explore best solution for the problem statement
+
+Corporate Security Responsibility
+
+Responsibilities
+
+All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:
+• Abide by Mastercard’s security policies and practices;
+• Ensure the confidentiality and integrity of the information being accessed;
+• Report any suspected information security violation or breach, and
+• Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.",,,,,,,,
+10,in-b7466c1a736d6905,indeed,https://www.indeed.com/viewjob?jk=b7466c1a736d6905,http://www.indeed.com/job/senior-aws-node-js-developer-b7466c1a736d6905,Senior AWS Node JS Developer,quinnox,"Houston, TX, US",2024-12-16,fulltime,,yearly,,,USD,True,,,,,"Quinnox is a global IT services organization headquartered in Chicago, USA with presence in Europe, Middle East and India.
+
+We are an Agile, Midsize CMMI Level 5, ISO 9001:2008 and ISO 27001:2013 certified organization, working with Fortune 500 clients and have successfully executed projects in over 40\+ countries across the globe.
+
+Quinnox is led by senior and seasoned professionals, in both business and technology, who have held key executive leadership positions in major banks, consulting groups, and technology products companies. All of us are focused on only one mission—accelerating success for our clients and employees.
+
+We are seeking an **AWS NodeJS Developer** with hands on experience of at least 3 years on the core Services like S3, Kinesis, Lambda (with Node JS), Dynamo DB, ECS, etc.
+
+* Ability to develop and enhance Lambda functions using NodeJS
+* Experience in Designing, Development, Testing and Deploying Node JS \& AWS applications.
+* Primary Skill: Node JS, Secondary: AWS
+* Should have atleast **3\+ years of Node Js Experience**
+* Should have atleast **2\+ years of AWS Experience**
+* Knowledge of Node.js and frameworks, Javascript
+* Thorough understanding of relational databases
+* Excellent coding skill in Node.js and related frameworks, JavaScript
+* Understanding of core AWS services, uses, and basic AWS architecture best practices
+* Proficiency in developing, deploying, and debugging cloud\-based applications using AWS
+* Should have knowledge on AWS services like AWS – SNS, SQS,WAT, ELB, Rest API, VPC, Cloudfront,secretManager,CloudTrail,Load Balancers, Route53
+* Proficiency in **AWS Services like ECS,EC2,S3,Lambda,**APIgateway,Cloudwatch,Cloud Formation \& Dynamo DB
+* Ability to rapidly learn and take advantage of new concepts, business models, and technologies
+* Experience of working in Agile Scrum (for development opportunity)
+* Experience of working in Jira (development) / ServiceNow (Support) or similar tools.
+
+Job Type: Full\-time
+
+Pay: From $110,000\.00 per year
+
+Benefits:
+
+* Dental insurance
+* Health insurance
+* Paid time off
+
+Schedule:
+
+* 8 hour shift
+
+Experience:
+
+* AWS: 4 years (Required)
+* Node.js: 4 years (Required)
+
+Work Location: Hybrid remote in Houston, TX 77002",,https://www.indeed.com/cmp/Quinnox,,,,,,
+11,in-7708623d65ae0b60,indeed,https://www.indeed.com/viewjob?jk=7708623d65ae0b60,https://boards.greenhouse.io/evolvevacationrental/jobs/6296674003,Software Engineering Manager,Evolve vacation rentals,"Remote, US",2024-12-16,fulltime,direct_data,yearly,148000.0,206000.0,USD,True,,,,,"At Evolve, we’re on a mission to make vacation rental easy for everyone. Our high\-performing, customer\-obsessed team runs on curiosity, communication, and accountability—working together to create exceptional experiences for our owners and guests. Whether solving big challenges, delivering outstanding results, or celebrating wins, we approach every day with purpose and passion. If you’re ready to join a mission\-driven company where every teammate has the opportunity to thrive, Evolve might just be the place for you.
+
+
+**Why this role**
+
+
+
+The Manager, Software Engineering will lead our team responsible for connections with our distribution partners and related internal systems such as booking engine, payments systems and third party applications. This role will be leading a distributed team of engineers focused on delivering robust, high\-performing, traceable, observable server side systems in a fast\-paced agile environment. This role will collaborate closely with other development teams and the product organization to understand internal and external stakeholder needs and plan migration and roll\-out strategies. This role will be technical, including responsibility for architecture, technical strategy, and communication of technical decisions across the wider organization in addition to delivery of critical systems.
+
+
+
+This role requires broad and deep experience with large\-scale system migrations (not rewrites), API design, and developing critical integrations with third party systems. The candidate must be comfortable leading strategy, planning iterative and incremental releases, and contributing tactically to design.
+
+
+
+This role will identify and drive process optimizations to improve team alignment, effectiveness and efficiency. This role will collaborate on technology \+ tool selections, and assign resources as needed to complete product requirements. This position requires frequent communication and interactions with our leadership team, and a driven individual to take on the responsibilities to develop and shape the product’s engineering roadmap and strategic team goals.
+
+
+**What you’ll do**
+
+
+* Oversee technical design and development of new features and capabilities in our APIs to be used by other internal systems
+* Lead all strategy, design, and implementation efforts to define and design high\-performing APIs related to third party system integration with our distribution partners
+* Responsible for the overall development life cycle of the solution and managing complex projects with significant impact
+* Lead system assessments and oversee implementations, including project management, change management and issue management
+* Manage, develop and mentor a team of developers including giving and receiving performance feedback, driving team engagement and action planning from quarterly engagement survey results
+* Partner cross functionally with the Product organization including other development teams, distribution operations, accounting, and guest services to coordinate migrating existing services and define roadmaps for improvements in alignment with the product vision and corporate objectives
+* Work closely with the DevOps team to implement CI/CD processes that shorten the development life cycle and provide continuous delivery of high quality software
+* Define and implement agile processes that are a best fit and help drive engineering velocity and quality
+* Guide technology and tool decisions as they relate to development
+* Drive Operational Excellence \- establish coding standards and best practices, including monitoring \& operation of production services
+
+
+**What makes you a great fit**
+
+
+* 5\+ years of product development experience, ideally in NodeJS, Go or other similar languages (Python, Ruby, Rust, Java, PHP, etc.)
+* 3\+ years of engineering management experience
+* Expertise in designing and implementing solutions in a highly integrated, enterprise scale, multi\-technology environment
+* Desire to design and build world class solutions
+* Experience building commerce applications
+* 3\+ years of experience in an agile or extreme programming environment while driving continuous improvement
+* Excellent organizational skills with the ability to manage multiple projects and timelines
+* Strong leadership, communication, collaboration, conflict resolution and business stakeholder management skills
+
+
+**Nice to haves**
+
+
+* Experience in partnering with DevOps teams to optimize CI/CD pipelines
+* Salesforce integration and or development experience a plus
+* Experience designing, planning, and executing legacy system migrations
+
+
+**Compensation**
+
+
+
+For this role, our salary range is $148,000 to $206,000, depending on relevant experience. This role will also be eligible to receive a variable annual bonus based on both company and individual performance.
+
+
+**Location**
+
+
+
+All Evolve team members must live in one of our approved locations by their first day. We can hire from anywhere in the U.S. except D.C. and Hawaii. Some positions may also have restrictions based on compensation in the following states: California, Maryland, New York, Pennsylvania, Rhode Island, and Washington. If you live in Colorado, you can work remotely anywhere in the state, at our downtown Denver office, or a hybrid of both! If you're planning to move soon, please let us know, and we'll be happy to review your application again.
+
+
+
+California Applicant Privacy Policy \| Evolve
+
+
+**How we reward Evolvers**
+
+
+
+We’re intentional about offering benefits that empower every Evolver to thrive both professionally and personally because they’re more than perks—they’re investments in our customer\-obsessed, high\-performing team.
+
+
+
+We believe in treating others as they want to be treated, providing benefits that deliver real value, and challenging the status quo to meet the diverse needs of our team. Whether it’s helping you take care of your health, plan for the future, or celebrate life’s milestones, our offerings are designed to support you every step of the way.
+
+
+* **Financial Wellness:** Industry\-competitive pay, equity in the company, and a 401(k) with a 4% immediate vesting match.
+* **Family Support:** 16\-18 weeks of paid parental leave for birthing parents and 10 weeks for non\-birthing parents, plus infertility coverage.
+* **Health \& Wellness:** Comprehensive medical, dental, and vision plans (100% employer\-paid for individual enrollment), 10 free mental health visits, and pet insurance.
+* **Time to Recharge:** Generous PTO, RTO (for full\-time exempt employees), sick leave, holidays, and a personal holiday to celebrate what matters most to you.
+* **Travel Perks:** Annual Evolve travel credit after one year and discounts on stays at all Evolve properties.
+* **Growth Opportunities:** World\-class onboarding programs, learning, and development resources to help you grow your impact.
+* **Connection:** Employee Resource Groups celebrating our diverse communities at Evolve.
+
+
+**How we work together**
+
+
+
+With our core values as our guide, every Evolver helps shape the company we want to work for and the people we want to be. We’ve cultivated a culture of collaboration, care, and responsibility that we can all be proud of, and we’re excited to see what you’ll bring as your authentic self.
+
+
+
+Still curious about who we are and what we do? Read more about our business and our culture at evolve.com.
+
+
+**EEO**
+
+
+
+At Evolve, we are committed to diversity and inclusion. As an equal opportunity employer, all qualified candidates will be considered for employment without regard to race, color, creed, religion, age, sex or gender (including pregnancy, childbirth, lactation and related medical conditions), gender identity or gender expression, sexual orientation, marital status, national origin, ancestry, citizenship status, military service or veteran status, physical or mental disability, or any other legally protected characteristic. Evolve participates in e\-Verify for all positions.
+
+
+
+If you have a disability or special need that requires accommodation at any point in the hiring process, please let your recruiter know.",,https://www.indeed.com/cmp/Evolve-Vacation-Rentals-1,,,,,,
+12,in-0ca7c81bbd319d0f,indeed,https://www.indeed.com/viewjob?jk=0ca7c81bbd319d0f,https://jobs.intel.com/job/-/-/599/74451798544,PDK Software Engineer - VLSI Physical Verification,Intel Corporation,"Hillsboro, OR, US",2024-12-13,fulltime,direct_data,yearly,91500.0,137436.0,USD,False,,,,,"**Job Description**
+-------------------
+
+ **Do Something Wonderful.**
+
+Intel put the Silicon in Silicon Valley. No one else is this obsessed with engineering a brighter future. Every day, we create world changing technology that enriches the lives of every person on earth. So, if you have a big idea, let's do something wonderful together. Join us, because at Intel, we are building a better tomorrow. Want to learn more? Visit our YouTube Channel or the links below. Life at IntelDiversity at Intel.
+
+
+As an PDK Software Engineer, you will lead the creation, implementation, and optimization of software tools in support of various domains including design, manufacturing, validation, silicon production, systems integration, software application products, or ecosystem enabling.
+
+
+You will utilize modern software development methodologies, programming languages, domain knowledge, and secure coding practices to design, develop, debug, and/or validate algorithms, software tools, and systems that enable our internal/external engineering partners to design/manufacture intel silicon, integrate Intel silicon and/or software into impactful products.
+
+
+Examples of tools/systems include:
+
+
+Debuggers, analyzers, SDKs, IDEs, PDKs, performance monitors, software tools and libraries, flows, and/or methodologies for design, manufacturing, validation, and test.
+
+
+This is an entry level position and compensation will be given accordingly. \#DesignEnablement
+
+
+In addition, candidate should have effective verbal or written communication and analytical problem solving and troubleshooting skills. The person should enjoy working in a fast\-paced environment where adaptability and flexibility is key to their success. Having depth and breadth of knowledge of managing servers in a large\-scale distributed environment is a core competency of this individual.
+
+**Qualifications**
+------------------
+
+  
+
+Minimum qualifications are required to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates.  
+
+  
+
+**What we need to see (Minimum Qualifications)**:
+
+* Candidate must possess a BS degree with 2\+ years of experience or an MS degree in Computer Science, Computer Engineering, Electrical Engineering or related discipline.
+* 3\+ months of semiconductor industry experience.
+* 3\+ months experience with Unix/Linux operating system.
+
+ **Preferred Qualifications:**
+
+* At least 1 year of semiconductor industry experience in all the following areas: Familiarity with Unix/Linux operating system.
+* Software programming skills in C\+\+, Python, Perl or, TCL.
+* At least one of the following: VLSI design process, reliability verification, ESD concepts, standard cell library or memory architectures.
+* At least 2 years of experience in: DRC/LVS runset development in any of the following EDA tools
+* Synopsys ICV
+* Siemens Calibre
+* Cadence Pegasus
+
+  
+
+Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research.
+
+ **Benefits at Intel**
+
+
+Our total rewards package goes above and beyond just a paycheck. Whether you're looking to build your career, improve your health, or protect your wealth, we offer generous benefits to help you achieve your goals. Go to **Intel Benefits \| Intel Careers** for details of benefits available to you. Intel reserves the right to modify, change or discontinue benefit plans at any time in its sole discretion.  
+
+
+
+  
+
+**Inside this Business Group**
+------------------------------
+
+  
+
+As the world's largest chip manufacturer, Intel strives to make every facet of semiconductor manufacturing state\-of\-the\-art \- from semiconductor process development and manufacturing, through yield improvement to packaging, final test and optimization, and world class Supply Chain and facilities support. Employees in the Technology Development and Manufacturing Group are part of a worldwide network of design, development, manufacturing, and assembly/test facilities, all focused on utilizing the power of Moore’s Law to bring smart, connected devices to every person on Earth.  
+
+**Other Locations**
+-------------------
+
+  
+
+US, Phoenix  
+
+**Posting Statement**
+---------------------
+
+  
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.  
+
+**Benefits**
+------------
+
+  
+
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, as well as, benefit programs which include health, retirement, and vacation. Find more information about all of our Amazing Benefits here.  
+
+  
+
+Annual Salary Range for jobs which could be performed in the US $91,500\.00\-$137,436\.00  
+
+* Salary range dependent on a number of factors including location and experience
+
+**Working Model**
+-----------------
+
+  
+
+This role will be eligible for our hybrid work model which allows employees to split their time between working on\-site at their assigned Intel site and off\-site. **\* Job posting details (such as work model, location or time type) are subject to change.**",,https://www.indeed.com/cmp/Intel-Corporation,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a458bf4fc3f3de2f1a11c8236832b909,https://jobs.intel.com/,"Santa Clara, CA","10,000+",more than $10B (USD),"Intel put the Silicon in Silicon Valley, and today our technology remains at the core of the most exciting, life-changing innovations on the planet."
+13,in-afd8f5ee09069460,indeed,https://www.indeed.com/viewjob?jk=afd8f5ee09069460,https://jobs.intel.com/job/-/-/599/74451788640,Software Development Graduate Intern,Intel Corporation,"Phoenix, AZ, US",2024-12-13,parttime,direct_data,yearly,63000.0,166000.0,USD,False,,,,,"**Job Description**
+-------------------
+
+  
+
+Join Intel and build a better tomorrow. Intel is in the midst of an exciting transformation, with a vision to create and extend computing technology to connect and enrich the lives of every person on Earth. So join us and help us create the next generation of technologies that will shape the future for decades to come.
+
+
+Intel Corporation's state of the art facilities gives you the opportunity to learn a variety of technical and operational skills to develop, operate, maintain, and repair the world’s most advanced facility equipment, in a demanding and challenging operations environment.
+
+  
+
+Life at Intel link: https://www.intel.com/content/www/us/en/jobs/life\-at\-intel.html
+
+  
+
+As a **Software Development Graduate Intern** your responsibilities will include but are not limited to:
+
+* Designs, develops, sustains, tests, validates, and debugs software to enable specific factory, packaging features, capabilities, solutions, and/or reference platforms for manufactured products.
+* May work across multiple layers of the software stack spanning firmware, drivers, operating systems, database platforms, storage platforms, network/firewall, middleware, frameworks, algorithms, automated material handling systems, and/or applications for mission critical distributed enterprise systems spanning a large number of clients/servers and applications across multiple operating systems, specific technology, product/platform, or Manufacturing segment
+
+ **Behavioral skills we are looking for:**
+
+* Drives continuous improvement efforts to meet automation systems health goals, as well as emerging capability needs
+
+
+Intel invests in our people and offers a complete and competitive package of benefits employees and their families through every stage of life.
+
+
+See https://www.intel.com/content/www/us/en/jobs/benefits.html for more details.
+
+**Qualifications**
+------------------
+
+  
+
+Minimum qualifications are required to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates.
+
+**This position is not eligible for Intel immigration sponsorship**  
+
+  
+
+**Minimum Qualifications:**
+
+* Candidate must be actively pursuing a Master's/ PhD degree in Computer Engineering or Computer Science with 3\+ months experience in all of the following:  
+
+
+	+ Scripting
+	+ PowerShell
+	+ Advanced troubleshooting to automation system problems
+	+ Troubleshooting design procedures and test plans
+**Preferred Qualifications:**
+
+* Experience in the following below:  
+
+Java, Python, C\+\+, SQL, HTML/CSS, ElasticSearch, Kibana, Scripting, Virtual Machines, IntelliJ IDE, Visual Studio Code, Linux, MATLAB, ReactJS, Plasmic, ExpressJS, PyTesseract, SQL Server, Oracle 19c Cloud Database, PostgreSQL Database, Azure DevOps Git, Docker
+
+  
+
+Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research.
+
+**Inside this Business Group**
+------------------------------
+
+  
+
+Intel Foundry is dedicated to transforming the global semiconductor industry by delivering cutting\-edge silicon process and packaging technology leadership for the AI era. As stewards of Moore's Law, we innovate and foster collaboration within an extensive partner ecosystem to advance technologies and enable our customers to design leadership products. Our strategic investments in geographically diverse manufacturing capacities bolster the resilience of the semiconductor supply chain. Leveraging our technological prowess, expansive manufacturing scale, and a more sustainable supply chain, Intel Foundry empowers the world to deliver essential computing, server, mobile, networking, and automotive systems for the AI era. This position is part of the Foundry Services business unit within Intel Foundry, a customer\-oriented service organization that is dedicated to the success of its customers with full P\&L responsibilities. We ensure our foundry customers' products receive our utmost focus in terms of service, technology enablement and capacity commitments.  
+
+**Posting Statement**
+---------------------
+
+  
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.  
+
+**Benefits**
+------------
+
+  
+
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, as well as, benefit programs which include health, retirement, and vacation. Find more information about all of our Amazing Benefits here.  
+
+  
+
+Annual Salary Range for jobs which could be performed in the US $63,000\.00\-$166,000\.00  
+
+* Salary range dependent on a number of factors including location and experience
+
+**Working Model**
+-----------------
+
+  
+
+This role will be eligible for our hybrid work model which allows employees to split their time between working on\-site at their assigned Intel site and off\-site. **\* Job posting details (such as work model, location or time type) are subject to change.**",,https://www.indeed.com/cmp/Intel-Corporation,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a458bf4fc3f3de2f1a11c8236832b909,https://jobs.intel.com/,"Santa Clara, CA","10,000+",more than $10B (USD),"Intel put the Silicon in Silicon Valley, and today our technology remains at the core of the most exciting, life-changing innovations on the planet."
+14,in-32146b80818794b3,indeed,https://www.indeed.com/viewjob?jk=32146b80818794b3,https://cube-dev.breezy.hr/p/bff437402bb701-principal-software-engineer-database-engineering?source=indeed,Principal Software Engineer (Database Engineering),Cube Dev,"Remote, US",2024-12-01,fulltime,direct_data,yearly,108697.0,137635.0,USD,True,,,,,"**About Cube Dev**
+------------------
+
+
+At Cube we are building a technology stack for modern analytics. If you are fascinated by the software that powers large technology companies but want the challenges and freedom that come with working in a small startup, then the job at Cube is for you. We are a small and dedicated team in San Francisco, funded by top\-tier SV investors, working on making advanced analytics infrastructure developed at large tech companies accessible to all developers around the world.
+
+**Position**
+------------
+
+
+As an engineer of the Cube Core team, your main goal will be to build and maintain various parts of open\-source Cube Core (**https://github.com/cube\-js/cube.js** (https://github.com/cube\-js/cube.js)), community support in our Slack, as well as development of Cube Cloud product.
+
+
+### **Some of the problems you'll be working on:**
+
+
+* **SQL generation and rewriting.** Cube is a simple yet powerful way to organize SQL queries. The Cube way is to generate the best possible SQL query for a given database while abstracting all complex stuff from users and giving them full power of SQL at the same time. To solve this problem, Cube parses SQL queries written by users to understand the structure and rewrites them to apply performance optimizations.
+* **Cube Store.** Cube Store is used to serve analytics for trillions of data points with sub\-second response times. To keep up\-to\-date with growing big data demands and serving speeds we're developing our own database optimized for serving huge aggregated tables with latencies of several milliseconds.
+* **Cube APM.** One of the main tech problems for Cube Cloud is to provide APM analytics of Cube instances using Cube itself. Being purely a dog food problem, large\-scale real\-time analytics has a lot of challenges, most of which will be solved for the first time ever using the SQL approach.
+
+
+### **Requirements:**
+
+
+* Expert in database algorithms and data structures: columnar vs row storage, SQL parsing, query planning, indexes, partitioning, join algorithms, filter pushdown optimizations, HLL.
+* Expert in Rust, or any other low\-level language.
+* Good communication skills.
+* Fluent English.
+* Previous startup experience or interest in working in a small fast\-moving company.
+
+
+### **Bonus points:**
+
+
+* Expert in data structures and data processing algorithms.
+* Expert in at least one of the high\-level VM languages such as Node.js, Ruby, Python, Java, Scala, C\#, or similar.
+* Experience in building and managing high\-load analytical or data infrastructure applications.
+* Experience with Docker and k8s, AWS, GCP.
+* Experience with contributing to or the maintenance of an open\-source project.
+* Development experience with JavaScript, React, Node.js would be a plus
+
+
+We're a fully remote company based in San Francisco. You can work from anywhere and join our lively team.",,https://www.indeed.com/cmp/Cube-Dev,,,,,,
+15,li-4064900743,linkedin,https://www.linkedin.com/jobs/view/4064900743,https://job-boards.greenhouse.io/notion/jobs/6260047003&urlHash=9_Vi,"Software Engineer, Web",Notion,"San Francisco, CA",2024-12-14,fulltime,,,,,,,not applicable,Engineering and Information Technology,,,"**About Us**
+ We're on a mission to make it possible for every person, team, and company to be able to tailor their software to solve any problem and take on any challenge. Computers may be our most powerful tools, but most of us can't build or modify the software we use on them every day. At Notion, we want to change this with focus, design, and craft.
+   
+
+  
+
+ We've been working on this together since 2016, and have customers like Pixar, Mitsubishi, Figma, Plaid, Match Group, and thousands more on this journey with us. Today, we're growing fast and excited for new teammates to join us who are the best at what they do. We're passionate about building a company as diverse and creative as the millions of people Notion reaches worldwide.
+   
+
+  
+
+ Notion is an in\-person company, and currently requires its employees to come to the office for two Anchor Days (Mondays \& Thursdays) and requests that employees spend the majority of their week in the office (including a third day).
+   
+
+  
+
+**About The Role**
+ The Web Presence team is building Notion's front\-facing website—the first thing users see when they visit notion.so. As an engineer on the team, you'll own the technical foundation of this dynamic and reliable website. You'll collaborate with product managers, designers, writers, and content creators to bring their visions to life. A successful candidate will lead in creating and maintaining a website that tells a clear story about the product, captures people's attention, increases overall traffic and signups.
+   
+
+  
+
+**What You'll Achieve**
+* Deliver an end\-to\-end marketing site experience that's accessible, reliable, performant, and optimized across multiple geographies
+* Understand the Notion customer by identifying key points in their journey and uncovering insights to drive engagement and signups
+* Plan, shape, and build new features that create a more engaging and personalized experience, telling a compelling story to our audiences
+* Work across the entire stack, from Vercel, Cloudflare, and NextJS to React, HTML, and CSS
+
+
+**Skills You'll Need To Bring**
+* Shipping polished user interfaces: You have 3\+ years of engineering experience building and maintaining quality user interfaces for a big audience. You are comfortable using Web technologies like HTML, CSS, JavaScript (we use TypeScript), and a modern UI framework like React and NextJS. If you've experienced the technical challenges of rapid growth, that's a plus.
+* Thoughtful problem\-solving: For you, problem\-solving starts with a clear and accurate understanding of the context. You can decompose tricky problems and work towards a clean solution, by yourself or with teammates. You're comfortable asking for help when you get stuck.
+* Pragmatism and impact\-orientation: You care about business impact and prioritize projects accordingly. You're not just going after cool stuff—you understand the balance between craft, speed, and the bottom line.
+* Putting users first: You think critically about the implications of what you're building, and how it shapes real people's lives. You understand that reach comes with responsibility for our impact—good and bad.
+* Empathetic communication: You communicate nuanced ideas clearly, whether you're explaining technical decisions in writing or brainstorming in real time. In disagreements, you engage thoughtfully with other perspectives and compromise when needed.
+* Team player: For you, work isn't a solo endeavor. You enjoy collaborating cross\-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same.
+
+
+**Nice To Haves**
+* A history of strong cross\-functional collaboration with brand, marketing, sales, and/or other non\-technical teams.
+* You have Growth Engineering experience at another company. You are comfortable iteratively testing product flows using A/B testing to understand customer behavior and make data\-informed decisions.
+* You've heard of computing pioneers like Ada Lovelace, Douglas Engelbart, Alan Kay, and others—and understand why we're big fans of their work.
+
+
+ We hire talented and passionate people from a variety of backgrounds because we want our global employee base to represent the wide diversity of our customers. If you’re excited about a role but your past experience doesn’t align perfectly with every bullet point listed in the job description, we still encourage you to apply. If you’re a builder at heart, share our company values, and enthusiastic about making software toolmaking ubiquitous, we want to hear from you.
+   
+
+  
+
+ Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation made due to a disability, please let your recruiter know.
+   
+
+  
+
+ Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco and New York City, the estimated base salary range for this role is $130,000 \- $250,000 per year.",Software Development,https://www.linkedin.com/company/notionhq,https://media.licdn.com/dms/image/v2/D560BAQFjFIUcTilH4w/company-logo_100_100/company-logo_100_100/0/1708112694181/notionhq_logo?e=2147483647&v=beta&t=S_e9Asv4gvCXscwHbYlCOEMLQQT8HrEv7qu9DZ3cT00,,,,,
+16,li-4101729163,linkedin,https://www.linkedin.com/jobs/view/4101729163,https://tnl2.jometer.com/v2/job?jz=5wqzs1be4640b58df5ac785825723d10f4d52CEALBBQAAADQ&iis=Job%20Board%20-%20Recruitment%20Marketing&iisn=LinkedIn&urlHash=DjsT,"2025 Graduate Software Engineer I, United States",Uber,"New York, NY",2024-12-14,fulltime,,,,,,,not applicable,Engineering and Information Technology,,,"**About The Role**
+ At Uber, engineers address a wide variety of bold problems and situations as we continue to innovate and develop products. We expect our engineers to be proficient in data structures, algorithms, and problem\-solving \- this includes being a specialist in the programming language of your choice.
+   
+
+  
+
+ We believe effective communication is an attribute in any successful engineer, as you and your team move in the fast\-paced development environment. Uber engineers regularly collaborate with teammates to build and maintain services and solutions to support user\-facing products, downstream services, and infrastructure tools and platforms used globally.
+   
+
+  
+
+ We build the platforms, products, tools, and processes so that our developers across Uber can provide an outstanding experience to our end customers. Join us as we reimagine the way the world moves.
+   
+
+  
+
+ These roles may be based out of any of the following locations: San Francisco, California \| Sunnyvale, California \| New York, New York \| Seattle, Washington
+   
+
+  
+
+**Basic Qualifications**
+* Bachelor's or Master's degree in Computer Science or a related technical field, or equivalent experience in an engineering related bootcamp
+* Must have graduated or completed an engineering related bootcamp in 2024 or 2025
+* Proficient experience with one or more of the following programming languages: Java, Go, C/C\+\+, Python, Ruby, etc.
+* If selected, must be willing to start the role in 2025
+
+
+****Preferred Qualifications****
+* Detailed problem\-solving approach and knowledge of algorithms, data structures, and complexity analysis
+* Desire to work with a team that delivers impactful results every day
+* Passion for building distributed systems at hyper\-scale
+* Grit, drive, and a strong sense of ownership coupled with an appetite for collaboration
+* Dedication to writing understandable, maintainable, and reusable software
+
+
+****About Uber****
+ At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world!
+   
+
+  
+
+ We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have a curiosity, passion and collaborative spirit, work with us, and let's move the world forward, together!
+   
+
+  
+
+ Uber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+   
+
+  
+
+ If you have a disability or special need that requires accommodation, please let us know by completing this form .
+   
+
+  
+
+ For New York, NY\-based roles: The base salary range for this role is USD$140,000 per year \- USD$147,000 per year. For San Francisco, CA\-based roles: The base salary range for this role is USD$140,000 per year \- USD$147,000 per year. For Seattle, WA\-based roles: The base salary range for this role is USD$140,000 per year \- USD$147,000 per year. For Sunnyvale, CA\-based roles: The base salary range for this role is USD$140,000 per year \- USD$147,000 per year. For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award \& other types of comp. You will also be eligible for various benefits. More details can be found at the following link https://www.uber.com/careers/benefits.",Internet Marketplace Platforms,https://www.linkedin.com/company/uber-com,https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ,,,,,
+17,li-4101724999,linkedin,https://www.linkedin.com/jobs/view/4101724999,https://tnl2.jometer.com/v2/job?jz=5wqzs21e3b0479456aa07cc28735bfceda653CQALBBQAAADQ&iis=Job%20Board%20-%20Recruitment%20Marketing&iisn=LinkedIn&urlHash=J5q2,"2025 Graduate Software Engineer I, United States",Uber,"San Francisco, CA",2024-12-14,fulltime,,,,,,,not applicable,Engineering and Information Technology,,,"**About The Role**
+ At Uber, engineers address a wide variety of bold problems and situations as we continue to innovate and develop products. We expect our engineers to be proficient in data structures, algorithms, and problem\-solving \- this includes being a specialist in the programming language of your choice.
+   
+
+  
+
+ We believe effective communication is an attribute in any successful engineer, as you and your team move in the fast\-paced development environment. Uber engineers regularly collaborate with teammates to build and maintain services and solutions to support user\-facing products, downstream services, and infrastructure tools and platforms used globally.
+   
+
+  
+
+ We build the platforms, products, tools, and processes so that our developers across Uber can provide an outstanding experience to our end customers. Join us as we reimagine the way the world moves.
+   
+
+  
+
+ These roles may be based out of any of the following locations: San Francisco, California \| Sunnyvale, California \| New York, New York \| Seattle, Washington
+   
+
+  
+
+**Basic Qualifications**
+* Bachelor's or Master's degree in Computer Science or a related technical field, or equivalent experience in an engineering related bootcamp
+* Must have graduated or completed an engineering related bootcamp in 2024 or 2025
+* Proficient experience with one or more of the following programming languages: Java, Go, C/C\+\+, Python, Ruby, etc.
+* If selected, must be willing to start the role in 2025
+
+
+****Preferred Qualifications****
+* Detailed problem\-solving approach and knowledge of algorithms, data structures, and complexity analysis
+* Desire to work with a team that delivers impactful results every day
+* Passion for building distributed systems at hyper\-scale
+* Grit, drive, and a strong sense of ownership coupled with an appetite for collaboration
+* Dedication to writing understandable, maintainable, and reusable software
+
+
+****About Uber****
+ At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world!
+   
+
+  
+
+ We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have a curiosity, passion and collaborative spirit, work with us, and let's move the world forward, together!
+   
+
+  
+
+ Uber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+   
+
+  
+
+ If you have a disability or special need that requires accommodation, please let us know by completing this form .",Internet Marketplace Platforms,https://www.linkedin.com/company/uber-com,https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ,,,,,
+18,li-4101729162,linkedin,https://www.linkedin.com/jobs/view/4101729162,https://tnl2.jometer.com/v2/job?jz=5wqzs7b5bffb968e7e36e4c675e40c9a50ee8CEALBBQAAADQ&iis=Job%20Board%20-%20Recruitment%20Marketing&iisn=LinkedIn&urlHash=Mhi8,"2025 Graduate Software Engineer I, United States",Uber,"Sunnyvale, CA",2024-12-14,fulltime,,,,,,,not applicable,Engineering and Information Technology,,,"**About The Role**
+ At Uber, engineers address a wide variety of bold problems and situations as we continue to innovate and develop products. We expect our engineers to be proficient in data structures, algorithms, and problem\-solving \- this includes being a specialist in the programming language of your choice.
+   
+
+  
+
+ We believe effective communication is an attribute in any successful engineer, as you and your team move in the fast\-paced development environment. Uber engineers regularly collaborate with teammates to build and maintain services and solutions to support user\-facing products, downstream services, and infrastructure tools and platforms used globally.
+   
+
+  
+
+ We build the platforms, products, tools, and processes so that our developers across Uber can provide an outstanding experience to our end customers. Join us as we reimagine the way the world moves.
+   
+
+  
+
+ These roles may be based out of any of the following locations: San Francisco, California \| Sunnyvale, California \| New York, New York \| Seattle, Washington
+   
+
+  
+
+**Basic Qualifications**
+* Bachelor's or Master's degree in Computer Science or a related technical field, or equivalent experience in an engineering related bootcamp
+* Must have graduated or completed an engineering related bootcamp in 2024 or 2025
+* Proficient experience with one or more of the following programming languages: Java, Go, C/C\+\+, Python, Ruby, etc.
+* If selected, must be willing to start the role in 2025
+
+
+****Preferred Qualifications****
+* Detailed problem\-solving approach and knowledge of algorithms, data structures, and complexity analysis
+* Desire to work with a team that delivers impactful results every day
+* Passion for building distributed systems at hyper\-scale
+* Grit, drive, and a strong sense of ownership coupled with an appetite for collaboration
+* Dedication to writing understandable, maintainable, and reusable software
+
+
+****About Uber****
+ At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world!
+   
+
+  
+
+ We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have a curiosity, passion and collaborative spirit, work with us, and let's move the world forward, together!
+   
+
+  
+
+ Uber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+   
+
+  
+
+ If you have a disability or special need that requires accommodation, please let us know by completing this form .
+   
+
+  
+
+ For New York, NY\-based roles: The base salary range for this role is USD$140,000 per year \- USD$147,000 per year. For San Francisco, CA\-based roles: The base salary range for this role is USD$140,000 per year \- USD$147,000 per year. For Seattle, WA\-based roles: The base salary range for this role is USD$140,000 per year \- USD$147,000 per year. For Sunnyvale, CA\-based roles: The base salary range for this role is USD$140,000 per year \- USD$147,000 per year. For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award \& other types of comp. You will also be eligible for various benefits. More details can be found at the following link https://www.uber.com/careers/benefits.",Internet Marketplace Platforms,https://www.linkedin.com/company/uber-com,https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ,,,,,
+19,li-4065876540,linkedin,https://www.linkedin.com/jobs/view/4065876540,https://stripe.com/jobs/listing/software-engineer-intern-summer/6142753?gh_src=73vnei&urlHash=v3CU,"Software Engineer, Intern (Summer)",Stripe,"New York, United States",2024-12-14,internship,,,,,,,internship,Engineering and Information Technology,,,"Who we are
+   
+
+  
+
+**About Stripe**
+ Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
+   
+
+  
+
+**About The Team**
+ Our internship program will provide an opportunity to work on meaningful products that will grow the GDP of the internet. Through the internship, you will work with many systems and technologies, gain experience in systems design and testing, and have opportunities to present your work to your team and the wider org. Each intern has a dedicated intern manager, and every project is part of the team’s roadmap and will directly help Stripe’s mission.
+   
+
+  
+
+ What you’ll do
+   
+
+  
+
+ Every internship at Stripe centers around a real, legitimate project that our customers urgently need, touching many parts of our operations and stack. We will support you in shipping it. Yes, you will actually ship it. Some recent projects include rebuilding our statistics aggregation service, building new service discovery systems, and many user facing projects like making it easy to understand error messages on Stripe Checkout. As a Stripe intern, you'll be tackling important projects to increase global commerce, while working alongside exceptional people who insist on doing their best work. You’ll learn from people with high standards who are great at inspiring others to do more and go further. We value technical and personal growth, and see our internship program as a vehicle to foster both.
+   
+
+  
+
+**Responsibilities**
+* Write software that will be used in production, and has meaningful impact to Stripe
+* Give and receive technical feedback through code reviews or design discussions
+* Collaborate with other engineers and cross\-functional stakeholders to proactively seek and incorporate feedback
+* Learn quickly by asking great questions, by working with your intern manager and teammates effectively, and by communicating the status of your work clearly
+
+
+ Who you are
+   
+
+  
+
+ We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+   
+
+  
+
+**Minimum Requirements**
+* A strong fundamental understanding of computer science through pursuit of a Bachelor’s, Master’s, or PhD degree in computer science, math, or a related discipline
+* Some experience and familiarity with programming, either through side projects or classwork. We work mostly in Java, Ruby, JavaScript, Scala, and Go. We believe new programming languages can be learned if the fundamentals and general knowledge are present
+* Experience from previous internships or other multi\-person projects, including open source contributions, that demonstrate evaluating and receiving feedback from mentors, peers, and stakeholders
+* Ability to learn unfamiliar systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts
+
+
+**Preferred Qualifications**
+* At least 2 years of university education, or equivalent work experience
+* One or more areas of specialized knowledge balanced with general skills and knowledge, such as knowing more frontend technologies and, at a high level, how a service handles an HTTP request
+* Understanding and some experience writing high quality pull requests, with good test coverage, and working knowledge to complete projects with minimal defects
+* Familiarity with navigating and managing your work in new code bases, with multiple languages
+* Ability to write clearly to explain your work to stakeholders, team members, and other Stripes
+
+
+ Hybrid work at Stripe
+   
+
+  
+
+ Office\-assigned Stripes spend at least 50% of the time in a given month in their local office or with users. This hits a balance between bringing people together for in\-person collaboration and learning from each other, while supporting flexibility about how to do this in a way that makes sense for individuals and their teams.
+   
+
+  
+
+ Pay and benefits
+   
+
+  
+
+ The annual US base salary range for this role is $123,500 \- $123,500\. For sales roles, the range provided is the role’s On Target Earnings (""OTE"") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location. Applicants interested in this role and who are not located in the US may request the annual salary range for their location during the interview process.
+   
+
+  
+
+ Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends.","Software Development, Financial Services, and Technology, Information and Internet",https://www.linkedin.com/company/stripe,https://media.licdn.com/dms/image/v2/D4E0BAQFqiwiSMcKk6A/company-logo_100_100/company-logo_100_100/0/1724937022726/stripe_logo?e=2147483647&v=beta&t=izBBwlcagZ_29QyD8kRFwxdV4_reYlATZI7uBtin61I,,,,,
+20,zr-GoidhuWr2Z7Mbgj-yIsKTQ,zip_recruiter,https://www.ziprecruiter.com/jobs//j?lvk=GoidhuWr2Z7Mbgj-yIsKTQ,,"Part Time Program Manager (Minooka, IL)",Right At School,"Minooka, IL, USA",2024-12-16,,direct_data,hourly,20.0,25.0,USD,,,,agency,,"**Inspire a Love of Learning \| Support Schools \| Give Parents Peace of Mind** 
+
+
+
+
+  
+
+
+
+
+
+ Right At School has been providing safe, fun, and meaningful extended day enrichment programs for more than a decade, and today we serve more than 35,000 students in 17 states across the country. Our after school, before school, and break camp programs give students a place to learn, play, grow, and most importantly—a place to be a kid!
+ 
+
+
+
+  
+
+
+
+
+
+ Right At School’s mission is to inspire a love of learning, support schools, and give parents peace of mind. Our vision is to bring exceptional, affordable programs to as many students, families, and schools as possible. The core of everything we do is the team of amazing educators we have across the country, who bring their best to each program every day. So how do we build that team? We start with mission\-driven people who want to help foster a love of learning while providing a safe environment for children to explore and grow.
+ 
+
+
+
+  
+
+
+
+
+
+**Program Manager:** 
+ $20\-25/hour based on education and experience
+ 
+
+
+
+  
+
+
+
+
+
+**Locations:** 
+ This position will work at all of the schools we partner with in the Minooka School District as a floating Program Manager. ;
+ 
+
+
+
+  
+
+
+
+
+
+**Hours:** 
+ Monday \- Friday, 6:30 \- 8:45 am and 2:15 \- 6:00 pm\*
+   
+
+*\*Hours may vary per individual school* 
+
+
+
+
+  
+
+
+
+
+
+**WHAT THIS ROLE ENTAILS:** 
+
+
+
+* Deliver quality enrichment programs for children using our internally crafted Disguised Learning curriculum
+* Develop and coach a team who are passionate about providing a safe, fun, engaging environment
+* Work closely with principals and school staff to enhance the instructional experience
+* Instill the Right At School footprint by participating in local community events (Back to School, Right Club gives back, Field Day, and more!)
+* Manage and maintain safety standards including supervision and program paperwork
+
+
+
+**WHAT YOU’LL LOVE ABOUT US:** 
+
+
+
+* Competitive compensation
+* Commuter benefits, supplemental insurance (short term disability, life insurance, etc.), based on eligibility
+* Employee perks and discounts (hotels, car rentals, theme parks, sports events, shopping, etc)!
+* 401k Contributions for your future
+* Free before \& after school childcare with Right At School
+* Growth Opportunities! We invest in your growth and offer options geared towards several career paths.
+* Continue your learning with access to our online training library with over 600 online courses and counting. Topics include leadership, child development, after\-school programming, and more.
+* It’s FUN! From day one, we take you through a guided training experience including online and in\-person learning.
+* Earn school\-age professional development certificates while receiving transferable continuing education credits.
+* You’re involved. Curate a hands\-on experience for children that blends into the school fabric
+
+
+
+**THE RIGHT FIT FOR THIS ROLE:** 
+
+
+
+* Prior experience supervising others
+* High school diploma or GED completed
+* Communication skills; oral, written, and visual with adults and children
+* Ability to model professional standards when dealing with students, parents, staff, and community
+* Familiarity with Google technology software or willingness to learn
+
+
+
+*Right At School is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, national origin, age, sex, religion, disability, sexual orientation, marital status, military or veteran status, gender identity or expression, or any other basis protected by local, state, or federal law.*",,,,,,,,
+21,zr-yfqWl-HeblhJLbTU18nEIA,zip_recruiter,https://www.ziprecruiter.com/jobs//j?lvk=yfqWl-HeblhJLbTU18nEIA,,Senior Linux Engineer,Selby Jennings,"Chicago, IL, USA",2024-12-16,,,,,,,,,,agency,,"Senior Linux Engineer
+ 
+
+
+
+
+
+
+
+**Salary: 160,000\-250,000 base salary with annual discretionary bonus** 
+
+
+
+
+
+
+
+
+ A proprietary trading firm is looking to bring on a Senior Linux Engineer to their global team.
+ 
+
+
+
+
+
+
+
+**The Linux Engineer will be responsible for:** 
+
+
+
+* Design, Build, and maintain linux systems on which the firms trading infrastructure runs on.
+* Optimize linux systems to run with the lowest possible latency, including performance tuning, and kernel tuning.
+* Contribute to on\-going globalization efforts of the firms Linux systems including reducing redundancies, improving infrastructure bottlenecks, and improving automation stacks.
+* Collaborate closely with network, hardware, and software development teams.
+
+
+
+
+
+
+
+**The Linux Engineer should have the following qualifications:** 
+
+
+
+* Bachelor's degree in Computer Science or equivalent
+* Python development
+* Expertise in Kernel development, performance optimization, and kernel tuning.
+* Experience working in latency sensitive environments
+* High Performance Computing, and Kubernetes experience a major plus.
+
+
+
+
+
+
+
+ This role must sit in the firms Chicago office working in a hybrid model of 3 days per week in office, 2 days remote.
+ 
+
+
+
+
+
+### About Selby Jennings:
+
+
+
+
+ Operating as part of Phaidon International, Selby Jennings is a multi\-award winning global recruitment organization focused on servicing the financial industry.
+   
+
+  
+
+ By breaking down financial markets into individual niches and micro\-specialisms, Selby Jennings powers a knowledge\-led model, delivering global solutions into local markets. Every consultant is an expert in their field. Structuring our teams to mirror the demands of our clients and candidates, we identify, qualify and present the highest caliber candidates, as well as identifying the best market opportunities for leading finance professionals.
+   
+
+  
+
+ We work in partnership with clients to tailor\-make a suitable search model based on the type of assignment and client service level requirements, adopting a bespoke combination of solutions to ensure optimum reach into the active and passive market places.
+   
+
+  
+
+ From our offices around the world, we recruit beyond international boundaries, pro\-actively sourcing the best talent in the industry. Across contingent, retained, and project solutions, our service is unrivaled; speaking to our level of service provision, search accuracy, and flexibility.",,,,,,,,
+22,zr-5Tb0eqMSbV4VawB6NO2sGg,zip_recruiter,https://www.ziprecruiter.com/jobs//j?lvk=5Tb0eqMSbV4VawB6NO2sGg,,"Director, Software Engineering - Card Management & Security",Capital One,"Chicago, IL, USA",2024-12-14,,,,,,,,,,agency,,"Director, Software Engineering \- Card Management \& Security
+ 
+
+
+
+
+
+
+
+
+ Capital One's Card Tech Organization is seeking a Director of Software Engineering to lead, manage, mentor, and build exceptional software engineering teams to deliver game changing technologies. The Director must have the ability to attract and recruit the industry’s best talent, and simultaneously have the technical chops to ensure that we build compelling, customer\-focused solutions in an iterative methodology.
+ 
+
+
+
+  
+ 
+
+
+
+ As a candidate for this role, you’re able to seamlessly switch from diving deep into technology with engineers to driving high\-level, strategic discussions. You are a naturally curious technologist and stay on top of emerging trends, including prototyping of nascent technologies. You are not afraid to question any existing processes and solutions, yet you display a keen sense of business value proposition and focus on the right priorities.
+ 
+
+
+
+
+
+
+
+
+
+
+
+**About the team:** 
+ Card Management \& Security enables customers omnichannel buying power in a safe and secure way. It plays a critical role in Card lifecycle business functions supporting customer needs, which includes both Card Issuance and Card Servicing. 
+ 
+
+
+
+
+
+
+
+  
+ 
+
+
+
+ We are in the process of modernizing our Card Management services to enable flexible, innovative, and secure services for our customers. 
+ 
+
+
+
+  
+ 
+
+
+
+ The Card Management \& Security team is a highly collaborative group;  we love solving complex problems and building reusable solutions. In this role, you will be working on a new and exciting card servicing project with our all\-in\-one platform designed to guide businesses towards unparalleled success. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+****You will:****
+
+
+
+* Lead, manage and grow multiple teams of product focused software engineers
+* Mentor and guide the professional and technical development of engineers on your team
+* Work with product leaders to define the strategy, roadmap and destination architecture
+* Manage a portfolio of diverse technology platforms and projects to build scalable applications that meet our customer needs
+* Continuously improve software engineering practices
+* Work within and across Agile teams to design, develop, test, implement, and support technical solutions across a full\-stack of development tools and technologies
+* Lead the craftsmanship, availability, resilience, and scalability of your solutions
+* Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in internal \& external technology communities, and mentor other members of the engineering community
+* Encourage innovation, implementation of cutting\-edge technologies, inclusion, outside\-of\-the\-box   thinking, teamwork, self\-organization, and diversity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****Basic Qualifications:****
+
+
+
+
+ \- Bachelor’s Degree
+ 
+
+
+
+ \- At least 7 years’ experience in software development
+ 
+
+
+
+ \- At least 5 years’ experience in people management
+ 
+
+
+
+
+
+
+
+
+
+
+
+****Preferred Qualifications:****
+
+
+
+
+ \- Master’s Degree
+ 
+
+
+
+ \- CISSP certification
+ 
+
+
+
+ \- 10\+ years of experience in software development
+ 
+
+
+
+ \- 4\+ years of experience with AWS
+ 
+
+
+
+ \- 5\+ years of experience in Agile practices
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.
+ 
+
+
+
+
+
+
+
+
+
+
+
+ The minimum and maximum full\-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part\-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Illinois (Hybrid On\-Site): $256,200 \- $292,400 for Director, Software Engineering
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+ 
+
+
+
+
+
+
+ This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+ 
+
+
+
+
+
+
+
+
+ Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well\-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part\-time status, exempt or non\-exempt status, and management level.
+ 
+
+
+
+
+
+
+
+
+
+
+ This role is expected to accept applications for a minimum of 5 business days.
+ 
+
+
+
+
+
+
+
+ No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug\-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23\-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901\-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+ 
+
+
+
+
+
+
+
+
+ If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1\-800\-304\-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+ 
+
+
+
+
+
+
+
+ For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+ 
+
+
+
+
+
+
+
+ Capital One does not provide, endorse nor guarantee and is not liable for third\-party products, services, educational tools or other information available through this site.
+ 
+
+
+
+
+
+
+
+ Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",,,,,,,,
+23,zr-OrxQhIFbAhYcXBaeE0Tq3Q,zip_recruiter,https://www.ziprecruiter.com/jobs//j?lvk=OrxQhIFbAhYcXBaeE0Tq3Q,,Associate Technical Writer Document Designer (Hybrid),Bosch Group,"Mount Prospect, IL, USA",2024-12-14,,,,,,,,,,direct,,"### About Bosch Group:
+
+
+
+  
+
+  
+
+**GO JOIN THE INNOVATORS WHO ENHANCE OUR LIVES AND EARN EIGHT PATENTS DAILY.** 
+  
+
+  
+
+ At the
+ **Robert Bosch Tool Corporation** 
+ , we know that every career matters. Which is why you should conduct yours on a grand scale. Headquartered in the northwest Chicago suburb of Mount Prospect, we are a $990 million division of Bosch, a multinational engineering and electronics organization and the largest privately held employer in the world.
+   
+
+  
+
+ Guided by the principles of founder Robert Bosch, we offer a setting where social and environmental responsibility are part of our corporate DNA. Always mindful of our impact on the future, we are committed to sustainability, paying it forward, giving back, and lifelong learning. These are but a few of the reasons why our parent company has more than 400,000 associates and a legacy of success spanning 135\+ years.
+   
+
+  
+
+ Our Mount Prospect location offers engaging opportunities for engineering and technology professionals to support our renowned brands of handheld power tools. As a leading global technology and services supplier committed to innovative R\&D, we'll empower you to explore many established and emerging areas of expertise. These include mechanical and electrical engineering for product design and testing; 3\-D digital fabrication; the Internet of things (IoT); software development; chat bots and cognitive computing; robotics; and IT project management.
+   
+
+  
+
+**This is your chance to Go Big. Go Bold. And develop products that enhance the quality of life, with the Robert Bosch Tool Corporation!** 
+  
+
+  
+
+**GO BOSCH, AND EXPERIENCE BIG REWARDS.** 
+  
+
+  
+
+ Robert Bosch Tool Corporation offers the competitive compensation, career\-development resources, and benefits you would expect of a world leader, including health, medical, and financial plans; work/life balance; and flexible work options.
+   
+
+  
+
+**GO BIG. GO BOLD. GO BOSCH.** 
+  
+
+  
+
+
+  
+
+  
+
+**This role is hybrid remote with 60% monthly in\-office presence in Mount Prospect, Illinois. (3 days in office per week)** 
+  
+
+  
+
+ As Associate Technical Writer / Documentation Designer, with guidance of more senior colleagues you are responsible for preparing instruction manuals, warning labels, and other supporting documents for all brands of Bosch Tool Corporation.
+   
+
+  
+
+ You develop instructional content, photographs and technical illustrations that support manual creation, effectively communicating complex and technical product information. Aligning with project deadlines while developing, gathering, and disseminating technical information throughout Bosch Tool Corporation in North America and other regions, you coordinate the release of product manuals and other technical documentation.
+   
+
+  
+
+ Responsibilities will include:
+   
+
+* Writing or revising supporting content (manuals, instruction sheets, labels, etc.), producing high\-quality and understandable documentation, which is appropriate for its intended audience, for all brands of Robert Bosch Tool Corporation's products.
+* Working collaboratively with internal teams on product and documentation requirements. Incorporate tables, graphs, illustrations, or photographs to increase users' understanding of the material.
+* Standardizing content across product platforms and media.
+* Managing the consistency of technical content and its use across departments including product development, manufacturing, marketing, and customer service.
+* Editing and maintaining existing manuals/documentation to ensure accuracy and compliance with latest product specifications, product safety, agency norms, and regulations.
+* Adding and managing files in the corporate manual database and safety archive.
+* Attending team meetings supporting the ongoing improvement of technical documentation.
+* Identify new best practices and define improvements to existing processes.
+
+
+  
+
+  
+
+**Qualifications** 
+  
+
+* Bachelor's degree in Technical Writing, English, Journalism, or other writing\-intensive program preferred, or Associate's degree required.
+* Minimum of 3 years of technical writing experience in consumer goods environment (power tools industry preferred) for product manuals/operating instructions
+* Solid technical writing skills, including the ability to research and document functionality, protocols and processes
+* Knowledge of product safety related technical writing
+* Excellent writing, grammar, proofreading and editing skills along with strong verbal communication skills
+* Excellent organization skills, with the ability to maintain schedules and meet deadlines
+* Personable with an ability to work well in a team environment
+* Ability to interpret product specifications, applications and product usage into product safety required text
+* Ability to comprehend technical information explain in lay\-person's terms how to assemble and use power tools; Creative skills and usage of photographs, drawings, diagrams, and charts that increase users' understanding
+* Attention to detail and accuracy
+* Ability to uncover errors with predefined business specifications
+* Ability to work effectively with employees at all levels of the organization
+* Self\-starter with the discipline and ability to work under minimal supervision while keeping records of progress.
+* Experience with Adobe InDesign and CAD preferred but not required
+
+
+  
+
+  
+
+**Additional Information** 
+  
+
+  
+
+ By choice, we are committed to a diverse workforce \- EOE/Protected Veteran/Disabled.
+   
+
+  
+
+ BOSCH is a proud supporter of STEM (Science, Technology, Engineering \& Mathematics) Initiatives
+   
+
+* FIRST Robotics (For Inspiration and Recognition of Science and Technology)
+* AWIM (A World In Motion)
+
+
+  
+
+ Thanks to the work of every associate, Bosch has been recognized for award\-winning culture by the following organizations:
+   
+
+* Great Place to Work™ Certified, 2024
+* Fortune's World's Most Admired Companies, 2024
+* America's Best Large Employers, 2024
+* America's Best Employers for Diversity, 2024
+* America's Greatest Workplaces for Women, Newsweek2024
+* Greatest Workplaces for Diversity, Newsweek 2024
+
+
+  
+
+**Indefinite U.S. work authorized individuals only. Future sponsorship for work authorization is not available.** 
+  
+
+  
+
+**Videos To Watch** 
+  
+
+ https://www.youtube.com/watch?v\=7xW4eguGuhc",,,,,,,,
+24,zr-ZVxWeu8u-uSO6KgRyDzXqQ,zip_recruiter,https://www.ziprecruiter.com/jobs//j?lvk=ZVxWeu8u-uSO6KgRyDzXqQ,,Lighting Engineer,"Labor Solutions, LLC","Libertyville, IL, USA",2024-12-13,fulltime,direct_data,yearly,90000.0,100000.0,USD,,,,subs_fulfillment,,"**Job Overview:** 
+  
+
+ We are seeking a motivated
+ **Certification Engineer** 
+ to ensure our lighting products meet all regulatory, safety, and energy efficiency standards. You will test and certify new products, maintain certifications for existing ones, and collaborate with cross\-functional teams to support product development and compliance efforts.
+ 
+
+
+
+**Key Responsibilities:** 
+
+
+
+
+**UL Certification:** 
+
+
+
+* Test lighting products to meet UL regulatory standards.
+* Collaborate with product teams to design and certify compliant products.
+* Maintain detailed records of test results and certifications.
+* Monitor regulatory changes and update designs accordingly.
+* Support audits and inspections by regulatory agencies.
+
+
+
+**DLC Certification:** 
+
+
+
+* Ensure products comply with DLC energy efficiency standards.
+* Prepare and submit documentation for DLC certification.
+* Manage certification processes, including follow\-ups with DLC.
+* Stay updated on energy efficiency standards and implement strategies to meet them.
+
+
+
+**Declare Certification:** 
+
+
+
+* Review materials and formulations for compliance with Declare program requirements.
+* Coordinate documentation for sustainability certifications.
+* Stay informed on trends in environmental certifications and integrate sustainable design practices.
+
+
+
+**Requirements:** 
+
+
+
+* Bachelor’s degree in electrical engineering or related field.
+* Experience with certification testing for lighting products (preferred).
+* Strong knowledge of regulatory standards (UL, DLC, and sustainability certifications).
+* Excellent problem\-solving, analytical, and communication skills.
+* Ability to manage multiple projects effectively and work in a team.
+
+
+
+**Work Environment:** 
+  
+
+ Office, production floor, and technical lab.
+ 
+
+
+
+**Tools \& Software:** 
+
+
+
+* **Software:** 
+ Microsoft Word, Excel, PowerPoint, and Publisher.
+* **Lab Equipment:** 
+ Multi\-meter, caliper, power supply, oscilloscope, light meter, power analyzer, soldering iron, and temperature monitoring tools.
+
+
+
+**Benefits:** 
+
+
+
+* Competitive salary.
+* Medical, dental, and vision insurance.
+* 401(k) match.
+* Paid time off and holidays.
+* Professional development opportunities.
+* Positive and collaborative work environment.
+
+
+
+
+
+### About Labor Solutions, LLC:
+
+
+
+
+ Labor Solutions, LLC is a leader in the professional, temporary, and direct hire industry throughout the Midwest area. Our clients range from individual entrepreneurs to large corporations, and while we are big enough to serve Fortune 100 companies, we are small enough to stay nimble in an always\-changing market.
+   
+
+  
+
+ Thank you!",,,,,,,,
