@@ -106,7 +106,7 @@ pip install datasets transformers, evaluate, re
 ## Directory Structure
 
 Key Notebooks:
-1. **Evaluation_realworld.ipynb**: Evaluate the GPT 4o, original Llama, finetuned Llama model using some real resume and job description data with the evaluation results
+1. **Evaluation_realworld_rg.ipynb**: Evaluate the GPT 4o, original Llama, finetuned Llama model using some real resume and job description data using metrics including job alignment, user alignment, model hallucination and Rouge-Lsum.
 2. **Evaluation.ipynb**: Evaluate the GPT 4o, original Llama, finetuned Llama model using evaluation data splited from the generated dataset in output folder with the evaluation results
 3. **Llama31_finetune.ipynb**: The process of finetuning the Llama 3.1 8B model including prompt, data prepration and a inference demo
 
