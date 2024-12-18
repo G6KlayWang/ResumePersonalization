@@ -101,6 +101,44 @@ model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-3.1-8B")
 ```
 pip install datasets transformers, evaluate, re
 ```
+
+## Tutorial
+### Training
+1. Downlaod the raw resume data from [github Repo](https://github.com/florex/resume_corpus) and scraping some job descriptions using the scrapper in the [notebootk](https://github.com/G6KlayWang/ResumePersonalization/blob/main/data/jd_scrap.ipynb)
+
+2. Use the code in notebook [data_preprocess](https://github.com/G6KlayWang/ResumePersonalization/blob/main/data_preprocess.ipynb) to preprocess the resume data and the data returned by the job scrapper and generate some simulated personal information using GPT API.
+
+3. Leverage script [jd_detail.py] to extract key information from the full text of job descriptions and [resume_section.py](https://github.com/G6KlayWang/ResumePersonalization/blob/main/data/resume_section.py) to categorize the resume data into seven sections. 
+
+4. Once had the job details extracted and resume categorized, you can save these two data in to csv file in seperate columns. Then use the [target_resume.py](https://github.com/G6KlayWang/ResumePersonalization/blob/main/data/target_resume.py) to generate the target data using GPT API. The simulated resume will be stored in a json file. 
+
+5. Once had the input data ina csv file and output data in json file, you can use the [Llama31_finetune](https://github.com/G6KlayWang/ResumePersonalization/blob/main/Llama31_finetune.ipynb) notebook to finetune the model, you can adjust the configuration for different number of epochs. In the notebook, you can directly run a test using the finetuned model.
+```
+training_args = TrainingArguments(
+    output_dir="./finetuned-llama-lora",
+    per_device_train_batch_size=1,
+    per_device_eval_batch_size=1,
+    learning_rate=2e-4,
+    num_train_epochs=2,
+    logging_steps=300,
+    save_steps=3000,
+    #save_total_limit=1,
+    gradient_accumulation_steps=1,
+    fp16=True if torch.cuda.is_available() else False,
+    eval_strategy="no",
+    #eval_steps=300,
+    logging_dir="./logs"
+)
+```
+
+### Inferencing and testing
+1. If your resume data is in pdf format, you can use [pdf_extract.py](https://github.com/G6KlayWang/ResumePersonalization/blob/main/data/pdf_extract.py) to convert all the content in your pdf to text. Then use the [resume_section.py](https://github.com/G6KlayWang/ResumePersonalization/blob/main/data/resume_section.py) to categorize the resume data into seven sections. 
+
+2. Job descriptions collection and data preprocssing are the same with the first three steps in training.
+
+3. Using the [Evaluation_realworld_rg.ipynb](https://github.com/G6KlayWang/ResumePersonalization/blob/main/Evaluation_realworld_rg.ipynb) to evaluate the results and generate the new resume content in a json format
+
+
 ## Directory Structure
 
 Key Notebooks:
