@@ -14,8 +14,6 @@
 </table>
 </div>
 
-## Introduction
-
 ## Procedure
 
 Our approach involves:
